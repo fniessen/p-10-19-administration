@@ -1,0 +1,28 @@
+#+TITLE:     Administration
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:t toc:3
+
+#+FILETAGS:  :personal:finance:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+* Tasks
+
+** (No Project)
+
+*** TODO Add copy of ID, driver license and boat license to Git
+
+- Rename my-private-files to my-secret-files or my very private files ?
+- Y mettre ID card, passport, passwords ?
+
+** 10.05 Technology
+
+*** TODO Télécharger les photos et les screenshots sauvegardés sur le téléphone
+
+** 10.06 Appointments
+
+*** TODO [#A] Refaire l'examen (à Huizingen) pour le CNG avant le contrôle technique 2026
+SCHEDULED: <2026-01-01 Thu> DEADLINE: <2026-02-16 Mon>
