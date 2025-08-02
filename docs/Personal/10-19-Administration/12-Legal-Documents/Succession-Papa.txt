@@ -1,0 +1,3450 @@
+#+TITLE:     Infos liées à la succession
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+
+#+FILETAGS: :personal:
+
+* Mutuelle
+
+** Mail de Raymond
+
+   Tu dois encore recevoir si ce n'est déjà fait (liste non exhaustive) :
+
+   - de Mutualia : le remboursement des cotisations d'assurance
+     complémentaire de juin à décembre 2009 (+/- 70,00 EUR)
+
+   - de ASBL Solidarité : remboursement des droits d'inscription à
+     l'excursion que nous devions faire ensemble sur le Rhin le 01/09 (2 x
+     30,00 EUR)
+
+   - de Neutra, outre le paiement des frais médicaux : le remboursement des
+     cotisations Neutra Top de 06 à 12/2009 pour ton Papa et Marie-Jeanne,
+     puisque tout était payé jusque fin d'année ; il s'agit de +/- 300 EUR
+     pour les deux.
+
+   Si ces montants ne te parvenaient pas, n'hésite pas à me le signaler, je
+   "ruerai dans les brancards".
+
+   Faire parvenir deux documents pour compléter le dossier de l'indemnité de
+   décès :
+
+   - la demande d'allocation complétée par la FGTB
+   - la facture acquittée des frais funéraires
+
+** Envoi courrier recommandé à Raymond
+   [2009-08-10 Mon]
+
+   Contenu :
+   - facture acquitté des frais funéraires
+   - tous les documents (factures, attestations) de soins
+
+** Mail de Raymond
+   [2009-06-26 Fri 08:34]
+
+
+   |----+------------+----------------------------+--------+-------------------------------------------------------------------------|
+   |  1 | 28-05-2009 | MUTUALIA, MUTUALITE NEUTRE |  56.25 | PAIEM. /4200931300322 727050901555                                      |
+   |  2 | 28-05-2009 | MUTUALIA, MUTUALITE NEUTRE |  73.50 | REMB COTIS SUITE DECES NIESSEN ANDRE 20090009870 127050900006           |
+   |  3 | 29-05-2009 | MUTUALIA, MUTUALITE NEUTRE |  22.18 | /C/ PAIEM. /0200931301541 728050900085                                    |
+   |  4 | 04-06-2009 | MUTUALITE NEUTRE DE LA     | 202.65 | REMBT NEUTRA SUITE DECES NIESSENANDRE 50/77849 20090007076 103060900052 |
+   |  5 | 04-06-2009 | NIESSEN ANDRE              | 280.63 | REMBOURSEMENT AVANCE FRAIS                                              |
+   |  6 | 09-06-2009 | SOLIDARITE NEUTRE ASBL     |  60.00 | REMBST. STAGES JEUNES                                                   |
+   |  7 | 22-06-2009 | MUTUALIA, MUTUALITE NEUTRE |  58.52 | /C/ 460921 033 75 /0200931301812 719060900029                             |
+   |----+------------+----------------------------+--------+-------------------------------------------------------------------------|
+   |  8 | 29-07-2009 | MUTUALITE NEUTRE DE LA     | 380.43 | PAIEM. /4200939771016 728070900886                                      |
+   |----+------------+----------------------------+--------+-------------------------------------------------------------------------|
+   |  9 | 06-10-2009 | MUTUALITE NEUTRE DE LA     | 918.51 | PAIEM. /4200939729192 705100900967                                      |
+   | 10 | 22-09-2009 | MUTUALIA, MUTUALITE NEUTRE | 148.74 | IND DECES MR NIESSEN ANDRE 471 200602972 621090900043                   |
+   | 11 | 18-09-2009 | MUTUALIA, MUTUALITE NEUTRE | 231.25 | PAIEM. /4200931300554 717090900572                                      |
+   |----+------------+----------------------------+--------+-------------------------------------------------------------------------|
+
+
+   1. 28-05-2009   MUTUALIA, MUTUALITE NEUTRE   56,25 EUR
+
+      Quittance du 27/05/2009 te remise fin mai (indemnités d'hospitalisation
+      du 12 au 13/03 et du 29/03 au 06/04/2009)
+
+
+   2. 28-05-2009   MUTUALIA, MUTUALITE NEUTRE   73,50 EUR
+
+      Il s'agit du remboursement des cotisations d'assurance complémentaire
+      payées mais non échues (de 06 à 12/2009 : 7 x 10,50 EUR)
+
+
+   3. 29-05-2009   MUTUALIA, MUTUALITE NEUTRE   22,18 EUR
+
+      Quittance du 27/05/2009 te remise fin mai (soins Mont-Godinne Dr
+      Chatelain)
+
+
+   4. 04-06-2009   MUTUALITE NEUTRE DE LA      202,65 EUR
+   5. 04-06-2009   NIESSEN ANDRE               280,63 EUR
+
+      Je suppose que ces deux versements viennent de la Mutualité Neutre de la
+      Santé et qui seraient le remboursement du premier relevé Neutra Top que
+      j'ai établi et que tu as transmis. Pourquoi le paiement est-il scindé,
+      je l'ignore, peut-être un courrier explicatif a-t-il été transmis ? Ça
+      m'intéresserait d'en prendre connaissance pour aussi comprendre la
+      différence entre le relevé (519,49) et le total des deux paiments
+      (483,28). Une différence n'est pas à priori anormale mais par expérience
+      je sais qu'il n'est pas inutile de contrôler. Donc...
+
+
+   6. 09-06-2009   SOLIDARITE NEUTRE ASBL       60,00 EUR
+
+      C'est le remboursement du droit d'inscription pour l'excursion que nous
+      devions faire ensemble le 1er septembre sur le Rhin.
+
+
+   7. 22-06-2009   MUTUALIA, MUTUALITE NEUTRE   58,52 EUR
+
+      Il s'agit du remboursement de soins de la kiné Genette. Je t'ai remis
+      dimanche la quittance qui correspond à ce remboursement. Tu dois
+      transmettre au Fonds des Maladies Professionnelles le document adhoc
+      pour récupérer le solde (remis dimanche également).
+
+* Factures
+
+** DONE Vérifier remboursement 90.68 EUR Electrabel [OK]
+   SCHEDULED: <2010-05-31 Mon>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-06-27 Sun 21:30]
+   :END:
+   [2010-01-28 Thu 10:10]
+
+   Reçu le 24 décembre : montant de 90,68 EUR n'est pas immédiatement
+   remboursable. Veuillez nous contacter (078-35 33 33).
+
+   Facture de consommation du 19 décembre 2009.
+
+   André Niessen
+   Numéro de client : 2 152 924 448
+   Numéro de facture : 709 441 888 408
+
+   Adresse changée vers Regastraat.
+
+   Attendre courrier à remplir et à renvoyer pour mettre à jour le numéro de
+   compte.
+
+   2010/02/25 * (2152924448 ) ELECTRABEL CUSTOMER SOLUTI
+     Assets:finance:Checking:979997405030	                         90.68 EUR
+     Expenses:Utilities:Gas
+
+** DONE Vérifier le remboursement Electrabel 45.45 EUR                    :mail:
+   SCHEDULED: <2010-09-17 Fri>
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-06-30 Wed 13:13] \\
+     Téléphoné. Attente du document postal.
+   - State "TODO"       from "WAIT"       [2010-07-12 Mon 22:06]
+   - State "DONE"       from "TODO"       [2010-07-13 Tue 22:54]
+   - State "TODO"       from "DONE"       [2010-07-13 Tue 22:54]
+   - State "WAIT"       from "TODO"       [2010-07-13 Tue 22:55] \\
+     Courrier sera posté demain, avec attestation d'hérédité. Ils vont me payer sur
+     mon compte la moitié des 90.90 EUR. Idem pour Michaël.
+   - State "TODO"       from "WAIT"       [2010-07-13 Tue 22:55]
+   - State "DONE"       from "TODO"       [2010-10-21 jeu. 18:39]
+   :END:
+
+   "Facture de clôture du 17 juin 2010.
+
+   Le montant de 90.90 EUR n'est pas immédiatement remboursable. Veuillez nous
+   contacter pour le remboursement."
+
+   On va devoir vous faire parvenir un (nouveau) papier. Document officiel à
+   signer et à nous renvoyer.
+
+Payé le 13-08-2010.
+
+* Échéancier + extraits de compte
+
+* Documents officiels
+
+* Auto Peugeot FNI
+
+  Comptes :
+
+  |                            |    2007 |    2008 |    2009 |
+  |----------------------------+---------+---------+---------|
+  | Assurance RC B-M 0         |  369.20 |  376.58 |  385.99 |
+  | Assurance P. du conducteur |   39.10 |   39.10 |   40.08 |
+  | Assurance P. Juridique     |   35.13 |   35.13 |   36.00 |
+  |----------------------------+---------+---------+---------|
+  | Taxe de circulation        |  228.76 |  231.66 |  243.67 |
+  |----------------------------+---------+---------+---------|
+  | Entretiens normaux         |  999.81 |  363.42 |  573.18 |
+  |----------------------------+---------+---------+---------|
+  | Essence                    |         |         |         |
+  |----------------------------+---------+---------+---------|
+  | Parking + PV               |         |         |         |
+  |----------------------------+---------+---------+---------|
+  | Total                      | 1672.00 | 1045.89 | 1278.92 |
+  #+TBLFM: @6$2=157.81+842.00::@6$3=275.19+88.23::@6$4=490.20+82.98::@9$2=vsum(@-I..@-IIIIII);%.2f::@9$3=vsum(@-I..@-IIIIII)::@9$4=vsum(@-I..@-IIIIII)
+
+* Déclaration de succession
+
+** RDV chez Patricia Van Bever
+   [2009-06-12 Fri 10:00]
+
+   Questions à poser :
+
+   1. Quand pourra-t-on mettre la maison en vente ?  Faut-il être
+      officiellement propriétaire ?
+
+      La maison est à nous dès le décès.
+
+   2. Expertise de la maison ?
+
+      Jean-Philippe Demoulin, le [2009-06-18 Thu 14:30]
+
+   3. Modèle de compromis de vente ?
+
+      Reçu par mail le [2009-06-22 Mon 19:35].
+      Voir [[file:~/Personal/Home/Family/Andre/MODELE_COMPROMIS_DE_VENTE_Fabrice_et_Michael_NIESSEN.doc][MODELE_COMPROMIS_DE_VENTE_Fabrice_et_Michael_NIESSEN.doc]]
+
+   4. Montant du contenu à déclarer ?
+
+      On déclare 1/10-ième du montant (contenu) assuré pour l'incendie.
+
+   5. Faire une procuration ?
+
+      RDV à Bioul, le [2009-06-23 Tue 17:30].
+
+   Autres infos...
+
+   - On a 5 mois, à partir du décès, pour fermer les comptes
+
+   - Idem 5 mois, à partir du décès, pour remettre la déclaration de
+     succession.
+
+   - Projet de déclaration de succession.
+
+   - Envoyer copie des _factures payées_ dans 2 ou 3 mois.
+
+   - Les comptes seront débloqués lors du paiement des droits de succession.
+     On peut donner instruction à la banque de payer les droits de succession
+     avant de débloquer les comptes.
+
+   - Taux réduit pour habitation qui est la résidence principale depuis plus
+     de 5 ans.
+
+** Contrôle AIB-Vinçotte
+
+   AIB-VINÇOTTE \\
+   Parc Scientifique Créalys \\
+   5032 Les Isnes - Gembloux \\
+   Tel: 081-43.26.11
+
+*** Téléphone à AIB-Vinçotte
+    [2009-07-13 Mon 10:35]
+
+    Numéro de dossier : 721 933. \\
+    Visite payable sur place et en liquide (entre 130 et 180 EUR). \\
+    On me rappelle dans les 5 jours ouvrables pour fixer un RDV.
+
+*** Téléphone de AIB-Vinçotte
+    [2009-07-13 Mon 17:30]
+
+    Mr Pineur (0497-03.27.02) fera le contrôle.
+
+    Il faut juste un *plan d'implantation* des prises et points lumineux.
+    Le schéma unifilaire sera fait lors du contrôle.
+
+*** RDV à Bioul pour contrôle AIB-Vinçotte
+    [2009-08-12 Wed 08:00-09:00]
+
+    Fait.
+
+    Quelques remarques, mais rien de fondamental. À faire corriger par
+    l'acheteur, dans les 18 mois.
+
+** Estimation auto Mazuin
+
+*** Téléphone à Mr Molor
+    [2009-07-13 Mon 14:35]
+
+    071-71.11.58 \\
+    Golf Plus TDI (Rabbit, bleue graphite)
+
+    Lionel Molor (?), le vendeur, va me rappeler après en avoir discuté avec
+    son patron.
+
+*** Téléphone à Mr Molor
+    [2009-07-16 Thu 16:50]
+
+    Absent.
+
+*** Téléphone à Mr Molor
+    [2009-07-23 Thu 11:40]
+
+    En congé cette semaine. Rappeler lundi.
+
+*** Téléphone à Mr Molor
+    [2009-07-28 Tue 16:00]
+
+    J'avais perdu vos coordonnées. Vraiment désolé.
+    Je vous retéléphone jeudi matin sans faute.
+
+*** Téléphone de Mr Molor
+    [2009-07-30 Thu 11:15]
+
+    Papa avait payé 19.500 EUR.
+
+    Je peux faire un papier pour le notaire comme quoi, si je devais la
+    reprendre, ce serait à 13.000 EUR. En fait, même à 12.500 EUR...
+
+    Il n'y a pas de problèmes. On peut évoquer :
+    - qu'il y a eu un face lift à l'avant.
+    - il y a eu un changement de motorisation.
+    - pas de dernier cri.
+    - elle a roulé un peu.
+
+    Pour le prix vis-à-vis de Michaël, 14.500 EUR serait la vraie valeur,
+    exacte, pour la revente. 105 chevaux. Bleu graphite avec accoudoirs et
+    AC. Bien équipée. Plus me paraît difficile. Sinon, les gens pendraient
+    le nouveau modèle.
+
+*** Téléphone à Mr Molor
+    [2009-08-07 Fri 16:45]
+
+    Je vous envoie le fax tout de suite. En fait, le père Mazuin n'est pas
+    là, mais je vais signer à sa place. Reçu...
+
+    Pour info, 600 EUR TVAC pour détecteur de recul.
+
+** Téléphone à Mr Demoulin
+   [2009-07-15 Wed 16:50]
+
+   Celui qui est venu estimer la maison, c'est Mr Jean-Philippe Demoulin.
+
+   Question : vraie estimation de la maison ?
+
+   Valeur du marché actuel : 240.000 à 250.000 EUR.
+
+   Pas impossible toutefois qu'on arrive à 275.000 ou 300.000 EUR.
+
+   Pour la maison de repos, aller les voir d'abord et taper haut
+   (300.000 EUR, par exemple). Dire que s'ils ne sont pas intéressés, on
+   publie l'annonce sous peu.
+
+   Danger d'annoncer une maison trop haut : les gens font des recherches
+   par fourchette de prix. Si au-dessus du budget, n'apparaît pas.
+
+   Meilleure solution : "Faire offre a partir de ...". Au moins, elle
+   apparaît. On fixe un délai de plus ou moins un mois (3 ou 4 semaines).
+   Limiter les offres dans le temps, pour ne pas que les gens soient liés
+   trop longtemps, car l'offre par écrit a valeur d'engagement.
+
+** Mail envoyé à  Patricia Van Bever
+   [2009-07-16 Thu 17:00]
+
+   Bonjour Madame,
+
+   Je vous envoie ce mail pour vous poser deux petites questions :
+
+   - a-t-on plus ou moins une idée de la date à laquelle le
+     dossier de succession de mon père sera clôturé ?
+
+   - lié à cela, vous aviez demandé que l'on vous envoie les
+     factures payées suite à son décès :
+
+     + dois-je le faire maintenant ?
+
+     + dois-je envoyer les originaux ou des copies ?
+
+     + dans ce dernier cas, vous préférez par courrier postal
+       ou par fax ?
+
+** Téléphone de Marc Rigaux
+
+   - Portefeuille virtuel 042466163
+   - Informations sur les titres
+   - Numéro de compte épargne 143-8576635-93
+   - Transiter sur ce compte, si on veut que Rigaux gère
+   - Ne pas déclarer les titres aux porteurs : on peut tout cacher
+   - Tout ce qui est porteur, il ne faut pas le montrer (même pas au notaire)
+
+   Situation actuelle des comptes :
+
+   | SICAV au porteur | 1000.00 |
+   | compte épargne   |  186.27 |
+
+** Téléphone de Marc Rigaux
+
+   Message sur répondeur : dossier pas clôturé.
+
+** Téléphone à Mr Demoulin
+   [2009-07-24 Fri 09:50]
+
+   Deux systèmes :
+   - prix demandé
+   - faire offre à partir de ...
+
+   Les amateurs peuvent limiter leur offre dans le temps.
+
+   Ils doivent signer une offre qui précise :
+   - adresse de la maison (sise à Bioul)
+   - identification complète de l'amateur
+   - montant en chiffres et en lettres
+   - limite de l'offre dans le temps
+
+   Cette offre a la même valeur qu'un compromis de vente, mais les conditions
+   détaillées seront reprises dans le compromis.
+
+   Voir le formulaire sur ImmoWeb.be.
+
+   Nous, on réceptionne les offres et on choisit la plus intéressante. Ce
+   n'est pas nécessairement financièrement, cela peut être par exemple lié à
+   une condition sur le crédit : "sous réserve d'acceptation d'un crédit".
+   S'ils ne mettent rien, il n'y a alors, par défaut, pas de condition
+   suspensive à la réalisation de l'offre.
+
+   Une fois la meilleure offre choisie, on marque "pour accord en tant que
+   vendeur" et on donne une copie aux acheteurs.
+
+** Téléphone à Mme Charlier
+   [2009-07-24 Fri 10:05]
+
+   Personne qui s'occupe de notre dossier de succession : Mme Charlier
+
+   Je vais recevoir par la poste (courant de la semaine prochaine) un
+   papier à signer pour "accord des héritiers" sur le patrimoine. Michaël
+   ne doit pas le signer, grâce à la procuration.
+
+   Cela devrait aller assez vite (elle saura nous dire quoi à partir de
+   mercredi prochain).
+
+   Je peux déjà envoyer les factures, par la poste, par courrier normal.
+
+   À l'enregistrement, il faut (en principe) une majorité d'originaux.
+   Mais, si les originaux sont nécessaires à d'autres (mutuelle, etc.),
+   alors ils acceptent des copies.
+
+** Téléphone à Mr Demoulin
+   [2009-07-24 Fri 10:40]
+
+   Est-ce que la vente avant ou après la succession fait une différence ?
+
+   Non. Si cela se vend avant, ils auront le montant exact. Mais, si cela
+   se vend après, il faut faire une déclaration complémentaire --- sauf si
+   on attend plus de 2 ans (auquel cas ils ne reviennent pas en arrière).
+
+   Non. Si cela se vend avant, ils auront le montant exact. Mais, si cela se
+   vend après, il faut faire une déclaration complémentaire --- sauf si on
+   attend plus de 2 ans (auquel cas ils ne reviennent pas en arrière).
+
+   C'est un truc facile à vérifier pour eux : ils ont les renseignements des
+   ventes et des successions. Donc, on ne peut pas y échapper...
+
+** Téléphone à Marc Rigaux
+    [2009-07-24 Fri 14:10]
+
+   Il reste le titre au porteur dans le dossier d'André.
+
+   Puisque Rigaux en connaît l'origine, Marie-Jeanne peut éventuellement
+   passer près de lui, le jour où cela vient à échéance. Ou n'importe quand
+   avant, et il faut le transfert dans un dossier pour Marie-Jeanne.
+
+   Rigaux est à Bioul l'après-midi de 14:00 à 17:00, du mardi au jeudi.
+   071-79.97.76
+
+** Factures payées
+   [2009-08-06 Thu 23:40]
+
+   |       Date | Destinataire         | Montant |
+   |------------+----------------------+---------|
+   | 2009-06-03 | Frais réception      |  280.63 |
+   | 2009-06-03 | Belgacom             |  107.41 |
+   | 2009-06-03 | Le Chérimont         |   85.00 |
+   | 2009-06-03 | Kiné Genette         |   80.00 |
+   | 2009-06-03 | Voo                  |   25.81 |
+   | 2009-06-03 | Pirson imprimerie    |  145.20 |
+   |------------+----------------------+---------|
+   | 2009-06-15 | Pompes funèbres      | 3014.95 |
+   | 2009-06-15 | Tele2                |    1.71 |
+   | 2009-06-15 | Mont-Godinne         |    1.95 |
+   |------------+----------------------+---------|
+   | 2009-07-01 | Mont-Godinne         |    1.75 |
+   | 2009-07-01 | Saint-Luc            |   14.72 |
+   |------------+----------------------+---------|
+   | 2009-07-08 | Ste Elisabeth        |    9.92 |
+   | 2009-07-08 | Immondices           |   50.11 |
+   | 2009-07-08 | Mont-Godinne         |  448.17 |
+   |------------+----------------------+---------|
+   | 2009-07-27 | Tele2                |    2.41 |
+   | 2009-07-27 | Voo                  |   25.81 |
+   |------------+----------------------+---------|
+   | 2009-08-06 | Précompte immobilier |  950.42 |
+   | 2009-08-06 | Electrabel           |  121.00 |
+   | 2009-08-06 | Belgacom             |  115.39 |
+   |------------+----------------------+---------|
+   |            | Total                | 5482.36 |
+   #+TBLFM: @21$3=vsum(@-I..@-IIIIIII)
+
+** Envoi courrier recommandé à Mme Charlier
+   [2009-08-10 Mon]
+
+   Contenu :
+   - factures payées
+   - document à remplir pour la déclaration de succession
+   - estimation Mazuin
+   - document sur le contrat d'assurance-vie AXA
+
+** Mail à Fortis Yvoir
+   [2009-08-13 Thu]
+
+   Aucune trace du paiement des 6.000 EUR [que j'avais transférés pour
+   Marie-Jeanne, la veille du décès] dans les relevés bancaires depuis le 5
+   mai 2009. Case is closed.
+
+** Téléphone à Mme Charlier
+   [2009-08-20 Thu 09:45]
+
+   Elle est en vacances cette semaine et la suivante.
+
+   Laissé le message suivant : /Liquidation des avoirs : d'accord pour faire
+   revenir les sommes chez le notaire/.
+
+** Téléphone à Mme Charlier
+   [2009-09-01 Tue 09:10]
+
+   La liquidation sera bien claire : montants versés sur le compte de
+   l'étude, au nom de la succession.
+
+   Je regarde votre dossier cet après-midi. Maintenant que j'ai le document
+   de caution, je vais demander au receveur qu'il me délivre un document qui
+   m'autorise à liquider les avoirs. C'est Mr Defuin à l'enregistrement de
+   Dinant : cela devrait arriver vite.
+
+   Lettres pour clôture à envoyer sans doute la semaine prochaine.
+
+   Concernant Delta Lloyd, FNI envoie par fax les pièces reçues, pour les
+   mettre au dossier et voir que cela bouge.
+
+   S'il me manque encore des documents, je vous tiens au courant cette
+   après-midi (votre dossier est dans les prioritaires).
+
+** Téléphone à Mr Demoulin
+   [2009-09-07 Mon 09:10]
+
+   Prix maximum de la maison si on était en période hors crise, que le marché
+   était à son niveau normal ?
+
+   250-260.000 EUR. Pour un prix plus élevé, les gens font des nouvelles
+   constructions plus aux normes d'isolation actuelles.
+
+   De plus, grand point d'interrogation sur l'avenir...
+
+** Téléphone à Mme Charlier
+   [2009-09-07 Mon 09:15]
+
+   La semaine passée, tout a été chamboulé. Je m'occupe de vous en priorité
+   aujourd'hui (vous êtes le deuxième sur ma liste). Je vous tiens au
+   courant.
+
+** Téléphone à Mme Charlier
+   [2009-09-07 Mon 09:15]
+
+   La semaine passée, tout a été chamboulé. Je m'occupe de vous en priorité
+   aujourd'hui (vous êtes le deuxième sur ma liste). Je vous tiens au
+   courant.
+
+** Téléphone à Mme Charlier
+   [2009-09-10 Thu 09:20]
+
+   J'ai bien travaillé pour vous : je vous envoie aujourd'hui la déclaration
+   de succession. À vous de la relire pour être sûr que je n'ai rien oublié.
+   Puis on pourra envoyer la déclaration définitive.
+
+   Tout est en ordre.
+
+   Le receveur doit fournir le document pour clôturer le dossier (ou les
+   comptes ?).
+
+** Téléphone à Mme Charlier
+   [2009-09-14 Mon 10:05]
+
+   On doit toujours faire une "élection de domicile" chez le défunt ou chez
+   le notaire. C'est pour adresser le courrier avec le receveur. Mais je
+   demande aussi une copie à l'adresse du notaire.
+
+   À fournir :
+   - copie de l'assurance incendie (partie mobilier)
+   - copie de la déclaration de cohabitation légale (Fabrice et Nele)
+
+   Pour Delta Lloyd, le premier avertit l'autre.
+
+** Factures payées
+   [2009-09-14 Mon 21:10]
+
+   |       Date | Destinataire | Montant |
+   |------------+--------------+---------|
+   |            | Total        | 5482.36 |
+   |------------+--------------+---------|
+   | 2009-09-01 | Electrabel   |  133.89 |
+   |------------+--------------+---------|
+   |            | Total        | 5616.25 |
+   #+TBLFM: @4$3=vsum(@-I..@-III)
+
+** Téléphone à Mme Charlier
+   [2009-09-15 Tue 10:15]
+
+   Factures postérieures au décès : n'interviennent pas dans la déclaration,
+   mais bien dans la liquidation.
+
+   Faxer banque de la poste + déclaration de cohabitation.
+
+   Rien reçu aujourd'hui de Delta Lloyd. Si rien de plus demain, je les
+   appelle.
+
+   Pour le reste : quand vous me dites que c'est en ordre, je clôture la
+   déclaration. Je vous l'envoie à signer. Vous me la renvoyer. J'annexe les
+   factures et je l'envoie au receveur.
+
+   Le receveur examine le dossier et envoie les droits à payer.
+   L'enregistrement a 2 mois pour répondre. Mais, avec Dinant, cela va vite :
+   sans doute, 2 à 3 semaines.
+
+   Une fois leur réponse, vous êtes avertis le jour même; et, en fonction des
+   avoirs, on fait les versements.
+
+** Téléphone à Mme Charlier
+   [2009-09-21 Mon 09:25]
+
+   Je n'ai toujours pas de réponses de Delta Lloyd. J'attends pour voir dans
+   le courrier d'aujourd'hui. Sinon, je prends mon bâton de pèlerin.
+
+   (je cite les infos de la lettre de Michaël)
+
+   Faxez-le moi. Si je n'ai rien de leur part, je partirai sur ces données.
+
+** Téléphone à Delta Lloyd (Stefan D'Hont)
+   [2009-09-21 Mon 09:45]
+
+   Message sur répondeur.
+
+** Assurance de la Poste
+   [2009-09-21 Mon 09:50]
+
+   Assurance de la Poste
+   Boulevard du Souverain 25
+   1170 Bruxelles
+   Tél: 02-678.99.79 (direct pour assurance-vie)
+
+   On n'a pas été avisé.
+
+   - acte de notoriété
+   - certificat de décès
+
+   J'ai tous les documents. Cela n'a pas été géré.
+
+   Il avait des contrats, mais la plupart des autres sont arrivés à terme (à
+   part celui des "Assurances de la Poste").
+
+   Les autres contrats sont arrivés à terme. En fait, il ne restait que ce
+   contrat-là (193.085.188).
+
+   Je vais demander qu'on envoie le 201 au notaire, aujourd'hui.
+
+   Mme Dooms.
+
+** Téléphone à Mme Charlier
+   [2009-09-21 Mon 10:00]
+
+   Je la tiens au courant du fax qu'elle devra recevoir de l'Assurance de la
+   Poste.
+
+** Téléphone à Mme Charlier
+   [2009-09-22 Tue 10:20]
+
+   Je n'ai pas eu de nouvelles de Delta Lloyd (mais je dois encore regarder
+   mon courrier).
+
+   Je n'ai pas eu de fax de l'Assurance de la Poste.
+
+** Téléphone à Delta Lloyd(Stefan D'Hont)
+   [2009-09-22 Tue 10:25]
+
+   J'ai transmis le dossier au service médical. Il n'est pas encore revenu du
+   médical. Il devrait revenir cette semaine.
+
+   Dès que je reçois mon dossier, je fais le nécessaire pour les quittances et
+   pour la liste 201 (montant, payé à qui).
+
+   02-650.78.78 \\
+   Service Classic : classic@deltalloydlife.be
+
+** Téléphone à Mme Charlier
+   [2009-10-02 Fri 09:30]
+
+   Je clôture la déclaration aujourd'hui. J'ai eu la réponse de Delta Lloyd.
+
+** Assurance de la Poste
+   [2009-10-02 Fri 09:40]
+
+   Un collègue fait le suivi. Dès que la cotation sera connue, tout sera
+   expédié.
+
+   Ce doit être début de la semaine prochaine.
+
+** Assurance de la Poste
+   [2009-10-07 Wed 11:50]
+
+   Envoyé hier.
+
+** Téléphone à Mme Charlier
+   [2009-10-07 Wed 11:50]
+
+   Absente (maladie). Elle sera là demain.
+
+** Téléphone de Mme Charlier
+   [2009-10-09 Fri 11:00]
+
+   J'ai reçu toutes les réponses. Envoi de la déclaration finale aujourd'hui.
+
+** Téléphone à Mme Charlier
+   [2009-10-13 Tue 10:00]
+
+   Si vous voulez bien signer pour votre frère, avec la procuration, cela
+   suffit.
+
+   Idem pour les photocopies des cartes d'identité, j'ai tout. Je fais le
+   nécessaire pour l'envoi.
+
+** Téléphone à Mme Charlier
+   [2009-10-28 Wed 16:20]
+
+   J'ai encore envoyé un document ce matin chez AXA. J'ai également des
+   communications avec Delta Lloyd.
+
+   J'attend tous les documents de l'enregistrement, et tous les décomptes des
+   banques (liquidations).
+
+** Téléphone à Mme Charlier
+   [2009-11-23 Mon 09:15]
+
+   Mme Charlier absente pour la journée.
+
+** Téléphone à Mme Charlier
+   [2009-11-26 Thu 09:55]
+
+   J'ai encore du renvoyer un courrier aux assurances. Il part aujourd'hui.
+
+   Les fonds seront libérés ici. Ils vont être reversés avec la liquidation du
+   dossier. Certains vous sont versés directement.
+
+   Quand le dossier est vraiment en ordre, la compta clôture. Décompte de
+   tout. Dans le mois de décembe.
+
+** Téléphone à Mr Demoulin
+   [2009-12-17 Thu 16:25]
+
+   À partir du moment où l'on fait de sa propre initiative une déclaration
+   complémentaire, en général, il n'y a pas de problèmes. Ils laissent tomber
+   l'amende.
+
+   Le seul point, peut-être, pourrait être que il demande la différence pour
+   les intérêts non perçus entre le moment de la succession et la déclaration
+   complémentaire. Mais c'est rare. Évidemment, je ne suis pas receveur; mais,
+   de toute façon, l'enregistrement profitera également de la plus-value.
+   C'est bon pour eux, aussi.
+
+   La seule chose, donc, c'est de ne pas omettre de faire la déclaration
+   complémentaire (généralement fait, par l'étude, au moment de la vente) :
+   - on rectifie ce qu'on a déclaré lors de la succession;
+   - on est d'accord de payer les droits en fonction;
+   - l'amende n'est pas due, car on était pas censé savoir qu'elle se vendrait
+     plus cher.
+
+   L'autre solution était, lors de la déclaration, de faire constater par le
+   cadastre la valeur du bien : le receveur n'a qu'à l'accepter. Mais c'est
+   une arme à double tranchant : si elle est estimée à 270 et qu'on la vend à
+   260, on y perd...
+
+   Donc, la meilleure approche (comme fait ici) est de payer un peu moins, et
+   de faire la déclaration complémentaire.
+
+   Concernant une offre à 260 kEUR : cela me paraît bien, actuellement. Si
+   l'acquéreur est sérieux, pour moi, c'est intéressant !
+
+   Sachant que, sinon, vous devez payer des taxes pour la maison, le
+   chauffage, l'entretien de l'immeuble, etc. Vous n'êtes jamais sûr de les
+   retoucher en attendant une hypothétique meilleure offre.
+
+   Pour info, mon estimation à 240-250 kEUR est une valeur basée sur actes
+   réalisés. Pas sur des prix affichés ou des estimations d'agences qui
+   essaient d'obtenir un contrat.
+
+** Téléphone à Mme Charlier
+   [2009-12-18 Fri 10:35]
+
+   Occupé.
+
+** Téléphone à Mme Charlier
+   [2009-12-24 Thu 11:15]
+
+   Répondeur. Doit être fermé...
+
+** Téléphone à Mme Charlier
+   [2010-01-08 Fri 09:30]
+
+   Il faut voir avec la comptabilité, mais c'est difficile aujourd'hui car en
+   contrôle fiscal.
+
+   Voir Mme Alain. Retéléphoner lundi.
+
+** Téléphone à Mme Charlier
+   [2010-01-14 Thu 15:00]
+
+   Je vais voir au niveau de la comptabilité...
+
+   Normalement, cela pourrait se faire la semaine prochaine. On était en
+   clôture de fin d'année.
+
+** Appel au Service Juridique de Test-Achats pour infos sur délai notaire
+   [2010-01-15 Fri 09:40]
+
+*** Paiement
+
+    Le notaire a-t-il obtenu l'approbation de l'administration fiscale sur la
+    valeur de la maison ?
+
+    - Déclaration dans les délais
+    - Paiements dans les délais
+
+    Explications :
+
+    - à l'origine décembre,
+    - retard dans traitement
+    - ne veux pas être tenu responsable dans les majoration (car retard leur
+      imputable)
+
+*** Question vente
+
+    On doit payer :
+    - soit juste les droits
+    - soit une amende en plus
+
+    On est taxé sur la plus-value.
+
+    Amendes en plus ? Dépend de volonté ou pas de cacher, de volontairement
+    essayer d'éviter des droits de succession.
+
+    Tout dépend des accords. Certains bureaux mettent systématiquement une
+    amende.
+
+    Argument à utiliser : marché de l'immobilier se relance (depuis un an).
+
+    Autre solution : *demander une partie en non-officiel*.
+
+** Téléphone à Mme Charlier
+   [2010-01-28 Thu 09:40]
+
+   Je vais demander, parce que cela ne dépend plus de moi.
+
+   On me dit "la semaine prochaine".
+
+   Pourquoi est-ce que cela bloque ?
+
+   C'est le surcroît de travail.
+
+   - Les droits ont été payés. Tout cela est en ordre.
+
+   - Maintenant, c'est le décompte final qui doit vous arriver : clôture
+     définitive, avec tous les justificatifs.
+
+** Téléphone de Mme Charlier
+   [2010-02-05 Fri 11:55]
+
+   L'auto, l'avez-vous gardée ou vendue ?
+
+   En principe, si tout va bien, vous aurez les papiers lundi dans votre
+   boîte.
+
+** DONE [#A] Confirmation sur liquidation de la succession
+   SCHEDULED: <2010-02-19 Fri>
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-02-17 Wed 17:42] \\
+     Faxé lettre au notaire [2010-02-17 Wed 12:00].
+   - State "DONE"       from "WAITING"    [2010-02-23 Tue 22:59]
+   :END:
+
+** Reprise par Fabrice
+
+   Certains montants sont des estimations à discuter...
+
+   *Il y a des montants qu'il reste à calculer et insérer dans ce tableau.*
+
+   #+TBLNAME: frais
+   |   | Article                                                                     | Estimation |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Auto Golf                                                                   |   14500.00 |
+   |   | Taxe de circulation                                                         |            |
+   |   | Assurance auto                                                              |            |
+   |   | Assurance PJ                                                                |            |
+   |   | Carte diesel                                                                |     750.00 |
+   |   | Karscher                                                                    |      50.00 |
+   |   | Eau javel                                                                   |      10.00 |
+   |   | Parasol                                                                     |      15.00 |
+   |   | TomTom                                                                      |            |
+   |   | 30 bouteilles de vin [2010-01-09 Sat]                                       |     120.00 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | *Total dû par Fabrice à nous deux*                                            |   15445.00 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Auto Peugeot                                                                |    4000.00 |
+   |   | Fructimel [2009-03-22 Sun]                                                  |      31.00 |
+   |   | Recharge Pay&Go [2009-03-30 Mon]                                            |     100.00 |
+   |   | achat GSM + carte [2009-04-25 Sat]                                          |      79.00 |
+   |   | Roundup [2009-07-25 Sat]                                                    |      25.00 |
+   |   | Essence tondeuse [2009-07-25 Sat]                                           |      11.00 |
+   |   | AIB Vinçotte [2009-08-12 Wed]                                               |     155.50 |
+   |   | Recharge Pay&Go [2009-09-16 Wed]                                            |      15.00 |
+   |   | Affichettes a vendre, p collant, p WC [2009-09-19 Sat]                      |       5.36 |
+   |   | Annonce Immoweb [2009-09-20 Sun] fni@missioncriticalit/L37M3In2             |      44.95 |
+   |   | Achat pour BBQ Bioul [2009-09-26 Sat]                                       |      62.67 |
+   |   | MutaPost [2009-10-23 Fri]                                                   |      20.00 |
+   |   | Annonce IN908644 VlanImmo [2009-10-27 Tue] fni@missioncriticalit/bluescreen |      58.50 |
+   |   | Home staging (analyse, 13 EUR/m2 - TVA)                                     |     220.00 |
+   |   | Remboursement ONEM mois de juin [2009-12-31 Thu]                            |    1129.96 |
+   |   | Mazout Burlet Denée (min = 500 L) [2010-01-11 Mon]                          |     306.00 |
+   |   | EuroMillions [2010-01-12 Tue]                                               |      20.00 |
+   |   | Voo [2010-01-13 Wed]                                                        |      25.81 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | *Total dû par nous deux à Fabrice*                                            |    6309.75 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à nous deux                                            |    9135.25 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à Michaël                                              |    4567.62 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Recharge Pay&Go [2009-09-27 Sun]                                            |     -15.00 |
+   |   | Nouvel EuroMillions pour Mic [2009-09-30 Wed]                               |     -10.00 |
+   |   | Remboursement Passendale [2009-12-04 Fri]                                   |       3.38 |
+   |   | Remboursement Activia [2009-11-20 Fri]                                      |       7.74 |
+   |---+-----------------------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à Michaël                                              |    4553.74 |
+   | ^ |                                                                             |        Tot |
+   #+TBLFM: @12$3=vsum(@-I..@-II);%.2f::@31$3=vsum(@-I..@-II)::@32$3=vsum(@-III..@-IIII)-vsum(@-I..@-II);%.2f::@33$3=@32$3/2;%.2f::@38$3=vsum(@-I..@-III)
+
+
+   Quant aux opérations qui ont eu lieu sur mon compte en banque :
+
+   #+TBLNAME: remboursements
+   |   |       Date |  Montant | Nom de la contrepartie     | Communication                                                            |
+   |---+------------+----------+----------------------------+--------------------------------------------------------------------------|
+   |   | 27-11-2009 |  -108.18 | Belgacom SA                | +++592.9609.08757+++                                                       |
+   |   | 03-11-2009 |  1196.04 | SERVIS LIFE                | SINISTRE DECES ANDRE NIESSEN  500193085188                               |
+   |   | 03-11-2009 |  1196.04 | SERVIS LIFE                | SINISTRE DECES ANDRE NIESSEN  500193085188                               |
+   |   | 03-11-2009 |  3232.32 | AXA BELGIUM SA             | 0109K0106301  .B.  - 101231671 - DECES                                   |
+   |   | 30-10-2009 |  3232.31 | AXA BELGIUM                | .B.  - 101231671 - DECES  0109K0106301                                   |
+   |   | 06-10-2009 |   -51.22 | PROXIMUS                   | +++104.3751.69775+++                                                       |
+   |   | 06-10-2009 |   918.51 | MUTUALITE NEUTRE DE LA     | PAIEM.  .4200939729192  705100900967                                     |
+   |   | 22-09-2009 |   148.74 | MUTUALIA, MUTUALITE NEUTRE | IND DECES MR NIESSEN ANDRE  471  200602972  621090900043                 |
+   |   | 18-09-2009 |   231.25 | MUTUALIA, MUTUALITE NEUTRE | PAIEM.  .4200931300554  717090900572                                     |
+   |   | 29-07-2009 |   380.43 | MUTUALITE NEUTRE DE LA     | PAIEM.  .4200939771016  728070900886                                     |
+   |   | 22-06-2009 |    58.52 | MUTUALIA, MUTUALITE NEUTRE | .C. 460921 033 75  .0200931301812  719060900029                          |
+   |   | 09-06-2009 |    60.00 | SOLIDARITE NEUTRE ASBL     | REMBST. STAGES JEUNES                                                    |
+   |   | 04-06-2009 |   280.63 | NIESSEN ANDRE              | REMBOURSEMENT AVANCE FRAIS                                               |
+   |   | 04-06-2009 |   202.65 | MUTUALITE NEUTRE DE LA     | REMBT NEUTRA SUITE DECES NIESSENANDRE 50.77849  20090007076 103060900052 |
+   |   | 29-05-2009 |    22.18 | MUTUALIA, MUTUALITE NEUTRE | .C. PAIEM. .0200931301541 728050900085                                   |
+   |   | 28-05-2009 |    73.50 | MUTUALIA, MUTUALITE NEUTRE | REMB COTIS SUITE DECES NIESSEN ANDRE  20090009870 127050900006           |
+   |   | 28-05-2009 |    56.25 | MUTUALIA, MUTUALITE NEUTRE | PAIEM. .4200931300322  727050901555                                      |
+   |---+------------+----------+----------------------------+--------------------------------------------------------------------------|
+   |   |      Total | 11129.97 |                            |                                                                          |
+   | ^ |            |      Tot |                            |                                                                          |
+   #+TBLFM: @19$3=vsum(@-I..@-II)
+
+   Le nouveau total serait donc :
+
+   |---------------------------------------------------------+----------|
+   | Dû par Fabrice à Michaël (frais)                        |  4553.74 |
+   | Dû par Fabrice à Michaël (remboursements divisés par 2) |  5564.98 |
+   |---------------------------------------------------------+----------|
+   |                                                         | 10118.72 |
+   #+TBLFM: @1$2=remote(frais,$Tot);%.2f::@2$2=remote(remboursements,$Tot)/2;%.2f::@3$2=vsum(@-I..@-II);%.2f
+
+** Nouveau tableau
+
+   Les comptes ci-dessus ayant été faits, voici une nouvelle version du
+   tableau, avec les nouveaux frais.
+
+   #+TBLNAME: frais2
+   |   | Article                                                       | Estimation |
+   |---+---------------------------------------------------------------+------------|
+   |   | Taxe de circulation                                           |            |
+   |   | Assurance auto                                                |            |
+   |   | Assurance PJ                                                  |            |
+   |   | EuroMillions 5 sem [2010-02-12 Fri]                           |      10.50 |
+   |   | Remboursement Electrabel Customer Solution [2010-02-25 Thu]   |      90.68 |
+   |   | "Meubles" maison Bioul [2010-03-31 Wed]                       |    4875.00 |
+   |   | Table chêne + 8 chaises                                       |            |
+   |   | Karsher                                                       |      35.00 |
+   |   | Bouchonneuse                                                  |      50.00 |
+   |   | Tracteur                                                      |     400.00 |
+   |   | Vide-grenier (sans bureau)                                    |     100.00 |
+   |   | EuroMillions cagnotte spéciale [2010-05-21 Fri]               |      12.80 |
+   |   | Francesco (bureau + repose-bûches)                            |      70.00 |
+   |   | Bernard Plovier                                               |      50.00 |
+   |   | Troc [2010-06-01 Tue]                                         |      20.00 |
+   |   | Troc [2010-07-01 Thu]                                         |     243.80 |
+   |   | Motoculteur [2010-07-26 Mon]                                  |      40.00 |
+   |   | Troc [2010-07-30 Fri]                                         |      42.90 |
+   |   | Gain Euro-Millions [2010-08-09 Mon]                           |      11.20 |
+   |   | Remboursement contrat incendie [2010-08-20 Fri]               |     205.28 |
+   |   | Troc [2010-09-02 Thu]                                         |      18.15 |
+   |   | Troc [2010-10-04 Mon]                                         |      69.85 |
+   |   | Remboursement impôts revenus 2008            XXX              |    2224.91 |
+   |   | Troc [2010-12-06 Mon]                                         |      95.10 |
+   |---+---------------------------------------------------------------+------------|
+   |   | *Total dû par Fabrice à nous deux*                              |    8665.17 |
+   |---+---------------------------------------------------------------+------------|
+   |   | Feuilles colorées pour pubs (plusieurs fois)                  |      30.00 |
+   |   | Paiement Belgacom [2010-02-01 Mon]                            |     101.88 |
+   |   | Paiement Voo [2010-02-04 Thu]                                 |      30.96 |
+   |   | Miroiterie Generale de la Meuse [2010-02-09 Tue]              |     108.14 |
+   |   | Univ Ziekenhuizen KUL [2010-02-09 Tue]                        |      26.04 |
+   |   | FGTB-Service chomage [2010-02-09 Tue]                         |    1173.42 |
+   |   | Pub De Standaard [2010-02-15 Mon]                             |      96.36 |
+   |   | EuroMillions 5 sem [2010-02-19 Fri]                           |      20.00 |
+   |   | FGTB-Service chomage [2010-02-22 Mon]                         |    1129.96 |
+   |   | Electrabel [2010-02-25 Thu]                                   |      97.00 |
+   |   | Mazout 500 L [2010-03-02 Tue]                                 |     310.00 |
+   |   | Impôts revenus 2008 [2010-03-03 Wed]                          |    1634.95 |
+   |   | Miroiterie Generale de la Meuse [2010-03-16 Tue]              |     166.22 |
+   |   | Etiquettes Danger Elec + Caches pour boitier [2010-03-26 Fri] |      12.77 |
+   |   | Recommande fin contrat Clerin [2010-03-26 Fri]                |       5.29 |
+   |   | EuroMillions 5 sem [2010-03-26 Fri]                           |      20.00 |
+   |   | Contrôle électricité par BTV [2010-03-30 Tue]                 |     103.00 |
+   |   | Rappel Belgacom [2010-05-06 Thu]                              |     101.60 |
+   |   | Electrabel [2010-05-06 Thu]                                   |      97.00 |
+   |   | Tecteo - Voo [2010-05-06 Thu]                                 |      30.96 |
+   |   | EuroMillions [2010-06-03 Thu]                                 |      20.00 |
+   |   | Paiement Belgacom [2010-06-08 Tue]                            |     107.12 |
+   |   | Paiement cloture AIEM [2010-06-21 Mon]                        |      75.33 |
+   |   | Administration Communale ANHEE [2010-07-13 Tue]               |      18.00 |
+   |   | Paiement plaque sur tombe [2010-08-18 Wed]                    |     101.06 |
+   |   | Paiement facture Mont-Godinne [2010-08-31 Tue]                |      16.04 |
+   |---+---------------------------------------------------------------+------------|
+   |   | *Total dû par nous deux à Fabrice*                              |     5633.1 |
+   |---+---------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à nous deux                              |    3032.07 |
+   |---+---------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à Michaël                                |    1516.04 |
+   |---+---------------------------------------------------------------+------------|
+   |   | EuroMillions Mic + Mario [2010-02-05 Fri]                     |     -20.00 |
+   |   | EuroMillions Mic + Mario [2010-02-12 Fri]                     |     -20.00 |
+   |---+---------------------------------------------------------------+------------|
+   |   | Total dû par Fabrice à Michaël                                |    1476.04 |
+   | ^ |                                                               |        Tot |
+   #+TBLFM: @26$3=vsum(@-I..@-II);%.2f::@53$3=vsum(@-I..@-II)::@54$3=vsum(@-III..@-IIII)-vsum(@-I..@-II);%.2f::@55$3=@54$3/2;%.2f::@58$3=vsum(@-I..@-III)
+
+   Quant aux opérations qui ont eu lieu sur mon compte en banque :
+
+   #+TBLNAME: remboursements2
+   |   | Date  | Montant | Nom de la contrepartie | Communication |
+   |---+-------+---------+------------------------+---------------|
+   |   |       |   90.00 | Electrabel (bientot)   |               |
+   |---+-------+---------+------------------------+---------------|
+   |   | Total |     90. |                        |               |
+   | ^ |       |     Tot |                        |               |
+   #+TBLFM: @3$3=vsum(@-I..@-II)
+
+   Le nouveau total serait donc :
+
+   |---------------------------------------------------------+---------|
+   | Dû par Fabrice à Michaël (frais)                        | 1476.04 |
+   | Dû par Fabrice à Michaël (remboursements divisés par 2) |   45.00 |
+   |---------------------------------------------------------+---------|
+   |                                                         | 1521.04 |
+   #+TBLFM: @1$2=remote(frais2,$Tot);%.2f::@2$2=remote(remboursements2,$Tot)/2;%.2f::@3$2=vsum(@-I..@-II);%.2f
+
+** DONE nos comptes (from Michaël Niessen)                                :mail:
+   SCHEDULED: <2010-09-17 Fri>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-10-21 Thu 18:47]
+   :END:
+
+Je viens de voir que j’ai reçu sur mon compte d’Argenta le payement suivant:
+
+13-08-2010         ELECTRABEL CUSTOMER SOLUTI              45,45 EUR
+
+Donc, si tu as eu le même, ne compte pas la moitié pour moi.
+
+From [[gnus:nnimap%2Bmc:INBOX.family#!&!AAAAAAAAAAAYAAAAAAAAAKRLntwIk1RCr1Fakc0LNiqCgAAAEAAAAAzHbzj1zAFPjUSsty7ifKgBAAAAAA%3D%3D@assemblysys.com][Email from Michaël Niessen: nos comptess]]
+
+Effectivement, j'ai reçu le même montant, à la même date. Vérification
+effectuée le [2010-10-21 Thu].
+
+** Niessen, Fabrice - FN-effecten (from Gabriels Luc)                     :mail:
+   [2010-11-22 Mon 09:35]
+
+Deze effecten hebben geen beursnotering meer sinds 1/10/1997.
+
+Er is enkel nog een kleine verhandeling op de openbare veiling.Laatste koers
+dateert van 11/2/2008 en was
+
+0,06 Eur per stuk.
+
+De beurskosten voor openbare veiling zijn : 0,9% (min 25Eur) + 0,07 taks +
+0,8% veiling kosten.
+
+De kosten liggen waarschijnlijk hoger dan de opbrengst.
+
+From [[gnus:nnimap%2Bmc:INBOX.argenta#796821FC67B1FF4996D462BF50E2E30803B0148B@SVV0013.argenta.be][Email from Gabriels Luc: Niessen, Fabrice - FN-effecten]]
+
+* Impôts et taxes diverses
+
+** Téléphone à Claude Van Beveren
+
+   Questions :
+
+   1. Signature à la place de mon père ?
+
+      Mettre "Pour Mr Niessen" et signer à sa place.
+
+   2. Son compte en banque sera fermé l'année prochaine : quid ?
+
+      Dès réception de l'extrait de rôle, on a 8 jours pour appeler le
+      receveur et faire bloquer le paiement...
+
+   3. L'extrait de rôle n'arrivera jamais à destination car on ne sait pas
+      faire suivre le courrier plus de 6 mois : quid ?
+
+      Faire bloquer son dossier à Dinant... \\
+      NN 46.09.21-033-75
+
+** Téléphone à Claude Van Beveren
+   [2009-10-02 Fri 14:20]
+
+   J'ai dit de bloquer le dossier de votre père. Il va faire faire bloquer le
+   dossier.
+
+** Téléphoner à Claude Van Beveren
+
+   Vérifier si problème du compte d'André et du retour de courrier est réglé
+   à Dinant.
+
+   *Sur quel compte serait payé le trop ?  Comment saurons-nous ce qui se
+   passe (s'il faut rembourser) ?*
+
+   Pour l'instant, on ne sait absolument rien faire. Tout est bloqué à Jambes,
+   au centre de scanning.
+
+   Je vais essayer de reprendre contact avec Mr Willy Clarinval. S'il y a un
+   problème, je lui donne votre numéro et il rappellera.
+
+** Téléphone à Claude Van Beveren                                         :call:
+   :PROPERTIES:
+   :Effort:   0:10
+   :END:
+   :LOGBOOK:
+   - State "TODO"       from "WAITING"    [2010-06-14 Mon 13:39]
+   CLOCK: [2010-06-25 Fri 14:14]--[2010-06-25 Fri 14:16] =>  0:02
+   :END:
+
+   [2010-04-28 Wed 09:25]
+   Il se renseigne auprès de Clarinval sur le pourquoi du 1600 EUR à
+   rembourser et me rappelle ce jeudi ou vendredi.
+
+   [2010-06-23 Wed 10:50]
+   Service Public Fédéral FINANCES
+   Contrôle des Contributions
+   Rue Saint-Martin, 3
+   5500 Dinant
+   Tél. : 082-21.49.60
+   Heures d'ouverture : de 09:00 à 12:00 ou sur RDV
+
+** DONE [#A] Impôts André : obtenir les infos du FMP                      :call:
+   SCHEDULED: <2010-06-28 Mon 10:30>
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2010-06-30 Wed 11:37
+   :ARCHIVE_FILE: ~/Personal/Personal.org
+   :ARCHIVE_OLPATH: Government
+   :ARCHIVE_CATEGORY: Government
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: home
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-06-28 Mon 09:30] \\
+     Appelé. Il doit m'envoyer une copie-écran par email.
+   - State "DONE"       from "WAITING"    [2010-06-28 Mon 13:20]
+   :END:
+
+   02-226.62.11
+   secr@fmp-fbz.fgov.be
+   de 09:00 à 12:00
+
+   Il a reçu des montants imposables en 2009.
+
+** DONE [#A] Remplir les impôts André
+   DEADLINE: <2010-06-30 Wed -1m>
+   :PROPERTIES:
+   :Effort:   0:30
+   :ARCHIVE_TIME: 2010-06-30 Wed 11:38
+   :ARCHIVE_FILE: ~/Personal/Personal.org
+   :ARCHIVE_OLPATH: Government
+   :ARCHIVE_CATEGORY: Government
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: home
+   :END:
+   :LOGBOOK:
+   CLOCK: [2010-06-29 Tue 23:39]--[2010-06-30 Wed 00:35] =>  0:56
+   - State "DONE"       from "TODO"       [2010-06-30 Wed 09:42]
+   :END:
+
+** Téléphone de Claude Van Beveren
+   [2010-07-01 Thu 11:45-11:50]
+
+   J'ai eu Clarinval, à propos des 1634,95 EUR.
+
+   Votre père recevait une allocation de chômage et un revenu du Fonds des
+   Maladies Professionnelles (44% d'incapacité).
+
+   Depuis quand perçoit-il ce montant-là ?  Voir le début des versements et
+   voir s'il y a eu une perte de revenu ou pas. Si oui, pas taxé sur les
+   revenus de l'incapacité.
+
+   Éventuellement, faire un dégrèvement... avant le 24 août 2010.
+
+   Moi, je reviens de congés le 12 juillet.
+
+   Coordonnées de Clarinval : 082-21.49.96.
+
+** Téléphone de Claude Van Beveren
+   [2010-08-05 Thu 11:40-11:45]
+
+   Je vous rappelle demain sans faute.
+
+** Téléphone à Claude Van Beveren
+   [2010-08-09 Mon 14:30-14:35]
+
+   Pour moi, ce sont des revenus qui devraient être exonérés.
+
+   Je vais réessayer de l'après-midi. Demain matin, si je n'arrive pas à le
+   joindre, j'essaye de toucher quelqu'un d'autre.
+
+   Je vous passe un coup de fil demain.
+
+** Téléphone à Claude Van Beveren
+   [2010-08-13 Fri 14:14-14:16]
+
+   Je n'ai pas eu de réponse de Dinant. Normalement, Mr Clarinval lundi.
+
+   Je vous préparerai la lettre, je vous l'enverrai par fax. Vous n'aurez plus
+   qu'à l'envoyer...
+
+** DONE [#A] Demander la révision des impôts d'André (revenus 2008)       :mail:
+   DEADLINE: <2010-08-06 Fri>
+   :LOGBOOK:
+   CLOCK: [2010-08-12 Thu 11:43]--[2010-08-12 Thu 11:45] =>  0:02
+   - State "DONE"       from "TODO"       [2010-08-18 Wed 11:24]
+   :END:
+
+[[file:Home/Family/Andre/Letters/2010-08-17-Impots.tex][file:~/Personal/Home/Family/Andre/Letters/2010-08-17-Impots.tex]]
+
+Vous aller recevoir un accusé de réception. Téléphonez-moi.
+
+** DONE [#A] Appeler Van Beveren suite accusé de réception                :call:
+   SCHEDULED: <2010-09-29 Wed>
+   :LOGBOOK:
+   CLOCK: [2010-10-01 Fri 10:05]--[2010-10-01 Fri 10:07] =>  0:02
+   - State "DONE"       from "TODO"       [2010-10-01 Fri 10:07]
+   :END:
+
+Si c'est quelqu'un autre que le contribuable, il faut un document pour montrer
+que l'on a le droit d'introduire une réclamation.
+
+** DONE [#A] Envoyer copie du certif d'hérédité
+   DEADLINE: <2010-10-06 Wed>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-10-06 Wed 14:28]
+   :END:
+
+Faxer au 082-22.98.35
+"À l'attention de Mr Clarinval".
+
+** DONE Recevoir confirmation du traitement du dossier
+   DEADLINE: <2010-11-05 Fri>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-10-25 Mon 20:38]
+   :END:
+
+** DONE Contacter les impôts pour 250,70 EUR de la succession             :call:
+   SCHEDULED: <2011-02-18 Fri>
+   :PROPERTIES:
+   :Created: [2011-02-03 Thu 16:33]
+   :END:
+   :LOGBOOK:
+   - State "TODO"       from "NEW"        [2011-02-03 Thu 16:34]
+   CLOCK: [2011-02-07 Mon 10:36]--[2011-02-07 Mon 10:37] =>  0:01
+   - State "DONE"       from "TODO"       [2011-02-22 Tue 16:14]
+   :END:
+
+2 services distincts :
+- calculs
+- recettes = récupérer argent ou effectuer remboursement
+
+** DONE Demander un duplicat des impôts 2010 d'André (N. Art 710090170)   :call:
+   SCHEDULED: <2011-03-01 Tue>
+   :LOGBOOK:
+   - State "WAIT"       from "TODO"       [2011-02-25 Fri 11:50]
+   - State "DONE"       from "WAIT"       [2011-03-03 Thu 10:35]
+   :END:
+
+Téléphoner à Mme Gauss (082-21.49.70) pour obtenir un duplicatat de
+l'imposition 2010 (extrait de rôle rendu exécutoire le 7 janvier 2011)
+
+** CANX [#A] Vérifier impact de la révision impôts d'André (rev 2009)
+   DEADLINE: <2011-07-31 Sun>
+   :LOGBOOK:
+   - State "TODO"       from "NEW"        [2011-03-11 Fri 14:18]
+   CLOCK: [2011-05-09 Mon 23:59]--[2011-05-10 Tue 00:47] =>  0:48
+   - State "WAIT"       from "TODO"       [2011-05-10 Tue 00:47]
+   - State "TODO"       from "WAIT"       [2011-05-28 Sat 10:18]
+   - State "TODO"        ->  "CANX"       [2012-09-12 Wed 10:33]
+   :END:
+
+[[file:~/Personal/Home/Family/Andre/Letters/2011-05-10-Impots.tex][2011-05-10-Impots.tex]]
+
+* Assurance Auto + Habitation
+
+** Téléphone à Jean-Marie Rochez
+
+   Documents à fournir :
+   - acte de décès
+   - carnet d'immatriculation
+   - certificat d'hérédité (attestation de la commune pour prouver
+     l'hérédité)
+   - photocopie de ma carte ID (avec adresse)
+
+   Demandes :
+   - Faire l'abandon de recours (gratuit) contre Marie-Jeanne.
+   - Assurance-vie ?
+   - Changement de nom pour la plaque
+   - Remboursement RC déjà payée
+   - Remboursement pour toutes les assurances déjà payées
+
+** Lettre à Jean-Marie Rochez
+   [2009-06-18 Thu]
+
+   [[file:~/Personal/Home/Family/Andre/Letters/2009-06-18_Lettre-Assurance-JMD-Rochez.pdf]]
+
+** Téléphone à Jean-Marie Rochez
+   [2009-07-13 Mon 10:20]
+
+   - Pour le *transfert de plaque*, il aurait fallut la certificat
+     d'immatriculation original. Il va m'envoyer un papier rempli que je
+     devrais envoyer à la DIV (avec des originaux du :
+     + certificat d'immatriculation,
+     + du certificat de décès et de
+     + l'attestation d'hérédité). Envoi recommandé (pour être sûr de ne pas
+       perdre les papiers) ?
+
+   - La *taxe de circulation* est liée à la plaque : en reprenant sa plaque,
+     c'est déjà payé.
+
+   - Idem pour son *assurance auto* : c'est déjà payé. Denis Rochez va
+     m'indiquer les ratios à prendre en compte vis-à-vis de Michaël.
+
+   - *Assurance PJ* (défense en justice) : continue à mon nom.
+
+   - *Assurance familiale* annulée au 17 mai. Remboursement fait ?
+
+   - *Assurance-vie* (mixte) Delta Lloyd Life : visiblement, il ne payait
+     plus ce contrat-là depuis 2007.
+
+** Téléphone à Jean-Marie Rochez
+   [2009-07-29 Wed 15:10]
+
+   Denis Rochez m'avait bien envoyé, à la bonne adresse (Leuven), tous les
+   documents promis. Pas arrivé.
+
+   Il me les renvoie par mail (avec documents en PDF).
+
+** Mail de Jean-Marie Rochez
+   [2009-07-29 Wed 15:25]
+
+   Bonjour,
+
+   Voici le site pour les explications :
+   http://www.mobilit.fgov.be/DIVFR/faqfr.htm#transfertplaq
+
+** Téléphone de Jean-Marie Rochez
+   [2009-08-10 Mon 14:55]
+
+   Mes 5 points à discuter :
+   - documents pour transfert de plaque
+   - compte vis-à-vis de mon frère pour les reprises d'assurance
+   - Delta Lloyd --- J'ai vu que Papa avait mis la mention "payé" sur un
+     virement via son compte Argenta. À vérifier.
+   - détail contrat incendie communiqué au notaire ?
+   - Michaël peut-il conduire l'auto ?
+
+   Pour Michaël, aucun problème. Ils le signaleront quand même à la compagnie
+   d'assurance, donc il faudrait son identité et une photocopie du permis de
+   conduire.
+
+   Pour le reste, il va voir avec Denis Rochez, absent aujourd'hui.
+
+   Pour info, AXA a du nous rembourser 31,73 EUR au 10 juillet, pour
+   l'assurance vie privée / familiale.
+
+*** DONE Vérifier paiement des 31,73 EUR de AXA                        :finance:
+    SCHEDULED: <2013-08-20 Tue>
+    :PROPERTIES:
+    :Effort:   0:10
+    :END:
+    :LOGBOOK:
+    - State "WAIT"       from "TODO"       [2010-10-25 Mon 21:38]
+    - Rescheduled from "2012-02-22 Wed" on [2013-04-03 Wed 21:59]
+    - Rescheduled from "2013-04-15 Mon" on [2013-04-15 Mon 21:53]
+    - Rescheduled from "2013-05-22 Wed" on [2013-08-13 Tue 22:16]
+    - State "WAIT"        ->  "DONE"       [2013-08-21 Wed 13:45]
+    :END:
+
+    [2010-06-28 Mon]
+    *Pas sur mes comptes.* Vérifier sur les comptes de Papa.
+
+** Téléphone à Jean-Marie Rochez
+   [2009-08-17 Mon 10:05]
+
+   Pour l'auto, il faut :
+
+   - un certificat d'immatriculation
+   - un certificat d'hérédité
+
+** Téléphone à Jean-Marie Rochez
+   [2009-08-18 Tue 14:20]
+
+   Lettre de Delta Lloyd Life pour *2007* :
+   - En cas de vie, 360.000 BEF.
+   - Valeur de rachat du contrat : 8.088,33 EUR.
+   - 2528 EUR de participation bénéficiaire.
+
+** Téléphone à la femme de Jean-Marie Rochez
+   [2009-08-20 Thu 09:40]
+
+   Dès qu'il arrive, je lui fais la commission.
+
+** Téléphone à Jean-Marie Rochez
+   [2009-08-24 Mon 09:35]
+
+   Je vais faire la commission à Denis, puisque c'est lui qui s'occupe du
+   dossier. Il s'est absenté plusieurs fois du bureau la semaine passée.
+
+** Téléphone de Jean-Marie Rochez
+   [2009-08-24 Mon 15:15]
+
+   Nous avons reçu une lettre de Delta Lloyd :
+
+   "Pouvez-vous nous fournir le
+
+   - Certificat médical de décès.
+   - Questionnaire médical ci-joint.
+   - Copie recto/verso des bénéficiaires.
+   - Etc."
+
+   Contrat d'assurance-vie : c'est comme un titre au porteur. Retrouver
+   l'original, si possible. Sinon, faire une déclaration de perte (pas trop
+   compliqué).
+
+   On a une lettre du 24 septembre 2008 où DL donne les infos relatives au
+   contrat d'assurance vie. Valeur de rachat théorique = 8.088,33 EUR.
+
+   Valeur théorique de rachat relative aux participations bénéficiaires
+   = 2.528,60 EUR (= supplément).
+
+   S'il n'a pas payé tout, on n'a pas droit au capital complet.
+
+   Essayer de retrouver le contrat. Je vais vous transmettre la déclaration
+   pour le médecin.
+
+
+   Pour le transfert de plaque, vous pouvez nous envoyer le certificat
+   d'immatriculation (feuille rose). Photocopiez-le avant de nous l'envoyer.
+
+
+   Pour le décompte entre Michaël et moi, cela sera fait automatiquement par
+   la compagnie d'assurance, une fois le changement de contrat acté.
+
+** Téléphone à Jean-Marie Rochez
+   [2009-09-14 Mon 10:15]
+
+   Je vous envoie une copie du contrat d'assurance incendie tout de suite
+   (par fax).
+
+** Téléphone à Jean-Marie Rochez
+   [2009-11-27 Fri 10:40]
+
+   Pour les documents de Delta Lloyd, Michaël est censé signer. Que faire ?
+
+   Signez pour lui...
+
+** DONE Appeler BTG pour remplacement vitre
+   [2010-01-28 Thu 09:50]
+
+   081 40 19 70
+
+   Nous, on ne travaille pas le bois. Risque de casser la latte à vitrage.
+
+   Miroiterie de la Meuse, à Jambes 081 30 12 48.
+
+** Téléphone à JMR pour vitre
+   [2010-02-09 Tue 09:20]
+
+   Marquer "Projection d'un caillou par tondeuse-tracteur".
+   Franchise de 220 EUR...
+   Faites-la remplacer, puis envoyez-moi le devis et la facture.
+
+** DONE [#A] RDV Miroiterie Générale de la Meuse
+   SCHEDULED: <2010-03-02 Tue 09:15>
+   :LOGBOOK:
+   - State "WAITING"    from ""           [2010-02-10 Wed 18:17] \\
+     Payé l'acompte de 40 % hier soir. Envoyé mail à ce sujet.
+   - State "TODO"       from "WAITING"    [2010-02-23 Tue 23:02]
+   - State "DONE"       from "TODO"       [2010-03-02 Tue 11:04]
+   :END:
+
+   [2010-01-28 Thu 09:55]
+   Environ 380 EUR pour 1 m sur 2.
+
+   Prise des mesures sur place vendredi 05/02.
+
+** Téléphone à JMR pour assurance incendie et vitre
+   [2010-07-23 Fri]
+
+   Concernant l'assurance incendie, ils ont écrit le 6 juillet pour la faire
+   annuler à partir du 1ier juin 2010. Remboursement du pro-rata non courru.
+
+   Pour le bris de vitre (sinistre), la compagnie intervient pour 52,71 EUR.
+   Va être clôturé d'ici peu. Avis du 24 juin.
+
+** DONE Faire stopper assurance incendie (envoyer scan vente)
+   SCHEDULED: <2010-08-09 Mon>
+   :PROPERTIES:
+   :Created: [2010-06-25 Fri 13:50]
+   :Effort:   0:10
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-06-30 Wed 11:25] \\
+     Envoyé mail avec scan des 2 premières pages.
+   - State "DONE"       from "WAIT"       [2010-08-10 Tue 21:55]
+   :END:
+
+Reçu lettre d'AXA. Ils vont rembourser 205,28 EUR.
+
+** DONE Vérifier paiement de 205,28 EUR de AXA
+   SCHEDULED: <2010-08-20 Fri>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-08-30 Mon 21:44]
+   :END:
+
+205,28 EUR
+210-0700156-62
+AXA BELGIUM
+RMBT CONTRAT INCENDIE
+
+** DONE Récupérer l'argent de 2 comptes avec AXA
+   SCHEDULED: <2013-08-20 Tue>
+   :PROPERTIES:
+   :Effort:   0:10
+   :END:
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-05-07 Fri 13:11] \\
+     Lettre faite, que j'enverrai ce soir.
+   - State "STRT"       from "TODO"       [2010-10-26 Tue 11:02]
+   - State "WAIT"       from "STRT"       [2010-10-26 Tue 11:02]
+   - State "WAIT"        ->  "STRT"       [2012-02-01 Wed 21:27]
+   CLOCK: [2012-02-01 Wed 21:27]--[2012-02-01 Wed 21:50] =>  0:23
+   - State "STRT"        ->  "WAIT"       [2012-02-01 Wed 21:51]
+   - Note taken on [2012-02-01 Wed 21:52] \\
+     Autre lettre, préparée et à envoyer à AXA.
+   - Rescheduled from "2012-02-22 Wed" on [2013-04-03 Wed 21:59]
+   - Rescheduled from "2013-04-15 Mon" on [2013-04-15 Mon 21:53]
+   - Rescheduled from "2013-05-22 Wed" on [2013-08-13 Tue 22:16]
+   - State "WAIT"        ->  "DONE"       [2013-08-21 Wed 13:45]
+   :END:
+
+Bonjour Monsieur,
+
+En vérifiant les comptes non clôturés, je remarque que je suis toujours en
+attente de deux paiements d'AXA :
+
+- 31,74 EUR pour la résiliation de l'assurance vie privée / familiale
+  (juillet... 2009)
+
+- 52,71 EUR pour la couverture du "sinistre" bris de vitre du salon
+  (juin 2010).
+
+Il est possible, toutefois, que ces paiements m'aient échappé, mais je n'en
+trouve pas trace. Pouvez-vous me dire ce qu'il en est ?
+
+À part cela, nous allons personnellement faire rénover notre maison à Leuven
+(estimée à 310.000 EUR). Nous aurons besoin d'une assurance de type "tous
+risques de chantier" couvrant notamment les dégâts qui pourraient être causés
+à des tiers. Faîtes-vous ce genre d'assurances ? Si oui, serait-il possible
+d'avoir une offre de votre part ?
+
+Sincrèrement,
+  Fabrice Niessen
+
+Autre lettre : [[file:Home/Family/Andre/Letters/2012-02-01_Lettre-AXA.pdf][file:~/Personal/Home/Family/Andre/Letters/2012-02-01_Lettre-AXA.pdf]]
+
+** DONE Si pas de remboursement, ré-introduire une plainte auprès du médiateur des assurances :finance:
+   SCHEDULED: <2013-08-23 Fri>
+   :LOGBOOK:
+   - State "TODO"        ->  "WAIT"       [2013-03-13 Wed 19:09]
+   - Rescheduled from "2013-04-03 Wed" on [2013-04-03 Wed 21:53]
+   - Rescheduled from "2013-04-15 Mon" on [2013-04-15 Mon 21:53]
+   - Rescheduled from "2013-04-24 Wed" on [2013-04-30 Tue 19:27]
+   - Rescheduled from "2013-05-22 Wed" on [2013-08-13 Tue 22:16]
+   - State "WAIT"        ->  "DONE"       [2013-09-01 Sun 21:13]
+   :END:
+
+http://www.ombudsman.as/fr/complaint/form.asp
+
+Première réponse par [[gnus:nnimap%2Bmc:INBOX.help#65B5D4851167154EBFB9C966166CEAE80FB31CF3@PC923-2k8.bvvo-upea.be][Email from OMBUDSMAN: Notre référence: OMBSCR13/0930]]
+
+Remboursement au [2013-08-14 Wed].
+
+** DONE Rembourser Michaël                                             :finance:
+   SCHEDULED: <2013-08-30 Fri>
+   :PROPERTIES:
+   :Effort: 0:30
+   :END:
+   :LOGBOOK:
+   - State "TODO"       from "NEW"        [2011-04-01 Fri 22:52]
+   - Rescheduled from "2011-06-16 Thu" on [2013-04-03 Wed 21:59]
+   - Rescheduled from "2013-04-15 Mon" on [2013-04-15 Mon 21:54]
+   - Rescheduled from "2013-05-22 Wed" on [2013-08-13 Tue 22:16]
+   - State "WAIT"        ->  "DONE"       [2013-09-01 Sun 21:13]
+   :END:
+
+* Pubs pour maison à vendre
+
+** Pub
+
+*** Superficie
+
+     | Endroit         | Superficie (m^2) |
+     |-----------------+------------------|
+     | RDC             |           132.89 |
+     | Grenier         |           55.896 |
+     |-----------------+------------------|
+     | Total habitable |          188.786 |
+     |-----------------+------------------|
+     | Cave            |           132.89 |
+     |-----------------+------------------|
+     | Total           |          321.676 |
+     #+TBLFM: @2$2=13.70*9.70::@3$2=13.70*4.08::@4$2=vsum(@-I..@-II)::@5$2=13.70*9.70::@6$2=vsum(@-I..@-III)
+
+     Superficie du terrain : 24,14 ares.
+
+     Arguments :
+     - Abri de jardin en briques, avec provision d'électricité.
+     - Grande cuisine.
+     - Grande cave (sur toute la surface de la maison).
+
+*** Description
+
+    MAISON spatieuse (322 m², dont 133 m² de garages et cave, soit 189 m²
+    habitables) en briques dans une rue très calme avec vue sur la campagne.
+
+    Composition :
+    - grande cuisine équipée (20 m²),
+    - grand séjour / salle à manger (36 m²),
+    - bureau / salle de jeux (7 m²),
+    - chambre 1 (16 m²),
+    - chambre 2 (12 m²),
+    - chambre 3 (9 m²),
+    - salle de bains (6 m²) (baignoire + douche, lavabo, WC),
+    - WC séparé supplémentaire,
+    - hall d'entrée,
+    - débarras,
+    - cave sur la totalité de la superficie au sol (soit 133 m²), avec 3 places
+      de parking intérieur, buanderie et atelier,
+    - 1-ier étage : vaste grenier (56 m²) aménageable (déjà isolé), avec
+      possibilité de 2 grandes chambres (ou plus).
+
+    EXTÉRIEUR : Grand jardin avec terrasse, potager, robinet extérieur, citerne
+    eau de pluie (1500 L), maison de jardin en briques (raccordée à
+    l'électricité), 4 places de parking dans l'allée.
+
+    DIVERS : Chauffage central mazout, électricité bi-horaire, châssis bois
+    double vitrage, toit en tuiles.
+
+    SITUATION : Arrêt de bus à XX m, gare de Godinne à XX km, hôpital de
+    Mont-Godinne à XX km.
+
+    VISITES : En se présentant à la maison (11, rue de l'Enclos, 5537 Bioul) le
+    samedi de 09:00 à 16:00.
+
+**** Description générale
+
+     Libre le : à l'acte
+     Résidentiel
+     Année de construction : 1982
+     Première occupation
+     Excellent état
+     Nombre de façades : 4
+     Télédistribution
+     Téléphone (et ADSL)
+     Raccordement à l'égout
+     Parkings intérieurs : 3
+     Parkings extérieurs : 4
+
+**** Description du terrain
+
+     Terrain : 24,14 ares
+     Orientation du jardin : Sud
+     Terrasse : Oui
+
+**** Description intérieure
+
+     Living : Oui
+     Salle à manger : Oui
+     Bureau : Oui
+     Cuisine : équipée
+     Buanderie
+     Salle de bains : 1
+     Toilettes : 1
+     Grenier : Oui
+     Cave : Oui
+
+**** Prestations énergétiques
+
+     Chauffage : Mazout
+     Double vitrage
+
+**** Contact
+
+     Fabrice Niessen
+     0477-95.73.36
+     fni@missioncriticalit.com
+
+** Téléphone au Richmond
+   [2009-07-16 Thu 18:00-18:30]
+
+   Le Richmond : Mme Kurweja \\
+   Rue de l'Enclos, 13 \\
+   5537 Bioul \\
+   +32 71-79.70.00 \\
+   +32 497-89.47.28 \\
+   mailto:lerichmont@scarlet.be
+
+   On avait espéré le terrain en face. Mais Hubert Merveille s'est rétracté
+   lors de la crise des banques.
+
+   On est rentré dans un groupement Cordia (association de plusieurs maisons
+   de repos --- Anvers, Bruxelles, bientôt Dinant). Banques demandent 30 % de
+   garantie sur la table.
+
+   On a vu un terrain lundi, rue de Salet, appartenant à Mr Delchamp.
+
+   Faire des petits pavillons pour des gens qui ne veulent pas rentrer
+   directement en maison de repos.
+
+   Je vais téléphoner dans le groupement pour contacter le financier (Van
+   Peteghem).
+
+   [Si c'est nous qui l'avons,] cette maison, elle va être amenée à
+   disparaître.
+
+   67 lits. Trop peu, pas en nombre, mais pour les personnes désorientées
+   (Alzeihmer). Il faut faire quelque chose de correct avec des activités, de
+   l'espace.
+
+   Je pars ce vendredi dès 14:00. Je reprend le travail le 23/07.
+
+** Mail du Richmont
+   [2009-08-10 Mon 12:48]
+
+   Bonjour Monsieur,
+
+   je reviens vers vous pour la maison . Avez-vous fait estimé la maison ou
+   si pas avez-vous une idée du prix que vous voulez en recevoir ?
+
+   Je reste tjrs intéressée par l'achat et j'attends de vos nouvelles.
+
+   Bonne journée.
+
+** Téléphone au Richmond
+   [2009-08-12 Wed 18:10]
+
+   "Elle vient juste de partir."
+
+   Mon argumentaire sera :
+
+   - Je vous contacte avant les autres
+   - Si cela vous intéresse, très bien; pas de concurrence
+   - sinon, on fait de la pub dès la semaine prochaine
+   - On a un prix en tête (320)
+
+   Sinon, dans tous les cas :
+
+   - Elle sera vendue dans le mois
+   - aux enchères, donc avec plus de compétition (et possibilité de perdre)
+   - cela tournera autour des mêmes montants
+   - même si le prix de départ sera un peu plus bas
+
+** Téléphone au Richmond
+   [2009-08-13 Thu 09:15]
+
+   "Je rencontre les gens du groupement Cordia aujourd'hui."
+
+   320.000 EUR.
+
+   "Je note. On va en discuter. Ou bien ce sera votre maison ou bien l'autre
+   terrain.
+
+   Mr de Hertoc s'occupe de tout ce qui est construction bâtiments.
+
+   Service de flat service (soins matin, midi et soir). Conciergerie.
+   Location.
+
+   Je vous tiens au courant début de la semaine prochaine."
+
+   Dans tous les cas, je vous rappelle lundi ou mardi.
+
+** Téléphone au Richmond
+   [2009-08-18 Tue 16:40]
+
+   Je n'ai pas eu de nouvelles. Mais il y a eu un décès dans la famille :
+   décès du père de Mr de Hertoc.
+
+   Moi, je prend mes congés à partir de jeudi pour 2 semaines.
+
+** Téléphone au Richmond
+   [2009-08-19 Wed 15:25]
+
+   Mr de Hertoc est à l'étranger pour gérer les sociétés de son père.
+   Il rentre le 7 septembre en Belgique.
+
+   Directeur financier Van Peteghem 0475-80.26.77.
+
+** Téléphone à Van Peteghem
+   [2009-08-19 Wed 17:45]
+
+   Elle nous intéresse fortement.
+
+   Je suis de retour la deuxième semaine de septembre. Je désirerais vous
+   rencontrer : ce n'est pas une paire de chaussures.
+
+   Il faut que l'on sache ce que l'on peut faire dessus. Mais on reste
+   intéressé.
+
+** Téléphone à Van Peteghem
+   [2009-09-16 Wed 18:30]
+
+   On ne sait pas. On n'est pas intéressés. On vous laisse la vendre
+   librement.
+
+   Pourquoi n'êtes-vous plus intéressés alors que vous l'étiez il y a un
+   mois ?
+
+   - On doit avoir des agréments. On en a, mais pas encore assez.
+
+   - Il y a d'autres voisins qui ont difficiles à accepter des extensions. On
+     est un peu limités s'il y a des extensions.
+
+** Mail à Alain Sonnet
+   [2009-07-24 Fri 15:15]
+
+   Rue Parapet 71/B \\
+   5537 Bioul \\
+   071-79.81.81 \\
+   alain.sonnet@belgacom.be
+
+   Bonjour Alain,
+
+   Comme tu l'as appris par Robert Gillain, mon père est effectivement décédé
+   en mai, des suites d'un putain de cancer.
+
+   Ma mère étant également décédée, mon frère habitant au Mexique et moi à
+   Leuven, nous avons décidé de vendre la maison. Il n'y a pas encore
+   d'annonce publiée, mais ce sera pour bientôt.
+
+   Nous demanderons aux éventuels amateurs de faire une offre à partir d'un
+   certain prix, prix que nous n'avons pas encore fixé.
+
+   Il semble que tu pourrais être intéressé par la maison. Est-ce le cas ?
+   Dois-je te prévenir lors de la mise en vente effective ? Veux-tu la
+   visiter à l'occasion (je suis là demain après-midi et mardi/mercredi) ?
+
+   Appelle-moi éventuellement pour en discuter (je n'ai pas ton numéro) si
+   cela t'intéresse.
+
+** RDV avec Alain Sonnet
+   [2009-07-25 Sat 14:30-15:00]
+
+   Alain Sonnet (environ 55 ans), une connaissance à moi éventuellement
+   intéressée par la maison, est venu tout à l'heure visiter.
+
+   Il était étonné par la grandeur de la cave et de la cuisine. Il était
+   surpris de voir qu'il y avait encore un premier étage...
+
+   Actuellement, en phase de divorce, il va mettre sa maison (Bioul, rue
+   Parapet) à vendre en septembre. Il dit que :
+
+   - la maison du voisin d'en face de chez lui a du mal à se vendre, à
+     200.000 EUR (pas de cave).
+
+   - la sienne étant un peu plus grande (cave partielle), il la mettrait sans
+     doute à vendre vers 230-240.000 EUR.
+
+   Donc, il m'a dit : "la tienne sera sans doute plus chère ?". J'ai dit :
+   "oui, sans doute entre 250.000 et 300.000 EUR, mais le prix de départ
+   reste à fixer". Malgré cela, il reste intéressé d'être tenu au courant le
+   jour où on la met en vente.
+
+   J'ai tenu le même discours avec Mélanie et Laurent : leurs amis peuvent
+   rester intéressés, on ne sait jamais... même si la voisine du Richmont
+   sera sans doute prête à tout --- on ne connaît pas leurs limites non plus
+   (eux, pour un terrain, en fait).
+
+   Conclusion de tout cela, il me semble que l'on peut directement avoir un
+   prix de départ supérieur à 250.000. La question est de combien...
+
+** Téléphone à Alain
+   [2009-08-13 Thu 09:40]
+
+   Pour tester, je viens de rappeler ma connaissance, Alain Sonnet, qui était
+   venu visiter. Je lui ai expliqué qu'on a demandé un prix plus cher que le
+   marché à la voisine, au cas où ce serait d'office eux qui l'achèteraient.
+   Mais que je le prévenais quand même, dans l'hypothèse peu probable, où il
+   serait quand même intéressé, même à ce prix (320.000 EUR).
+
+   En fait, non, il me confirme bel et bien que c'est trop cher. Mais il
+   comprend le système et est content que je l'aie prévenu. Je lui ai indiqué
+   le rappeler dans tous les cas pour le tenir au courant de la décision de
+   la maison de repos.
+
+   Il s'attend à un prix entre 250.000 et 300.000, mais pas plus.
+
+** Placement des pubs
+
+   À faire :
+   - Hôpitaux de Namur
+   - Sandron ?
+   - Intermarché *Malonne*
+   - *Fosses* : Stock américain et Delhaize et...
+
+   Fait :
+   - Bioul
+     + librairie
+     + boulangerie
+     + petit Delhaize
+
+   - Denée
+     + boulanger 1
+     + boulanger 2
+     + abribus
+
+   - Godinne
+     + librairie
+     + gare (x 3)
+     + Spar (x 2)
+     + hôpital
+
+   - Anhée
+     + Intermarché
+
+   - Yvoir
+     + gare
+     + librairie
+     + GB express
+
+   - Profondeville
+     + petit supermarché
+     + *librairie*
+
+   - Lustin
+     + gare (x 2)
+
+   - Wépion
+     + Carrefour
+
+   - Dinant
+     + gare
+     + librairie
+     + boîte aux lettres
+     + hôpital
+     + LIDL
+     + arrêt bus
+
+   - Jambes
+     + Delhaize
+     + Intermarché
+     + Mestdagh
+
+   - Ermeton-sur-Biert
+     + boucherie
+     + abribus
+
+   - Saint-Gérard
+     + boulangerie
+
+   - Mettet
+     + Colruyt
+     + Intermarché
+
+   - Florennes
+     + librairie
+
+   - Morville
+     + librairie
+
+** Contacts téléphoniques
+
+   | Date                   |               |                                                                     |                |
+   |------------------------+---------------+---------------------------------------------------------------------+----------------|
+   | [2009-09-20 Sun 10:40] | 0498-61.25.74 | Claudy Collard                                                      | RC=?           |
+   | [2009-09-21 Mon 18:30] |               | Ansiaux                                                             |                |
+   | [2009-09-24 Thu]       | 0472-98.42.49 | Beatrice Malherbe                                                   |                |
+   | [2009-09-26 Sat 11:06] | 0497-68.99.98 | vient de vendre Anhee. Sympa                                        | Libre qd?      |
+   | [2009-09-29 Tue 12:45] | 0498-24.85.06 | jeune; visiblement trop cher                                        | Combien coute? |
+   | [2009-10-01 Thu 18:17] |  071-79.92.96 | jeune mec. Intérêt uniq prix                                        |                |
+   | [2009-10-26 Mon 16:20] | 0485-40.77.69 | Pub Spar. Dame pensait maison a Godinne. Bioul pas OK.              |                |
+   | [2009-11-09 Mon 16:50] |       (privé) | Pub Delhaize Dinant. Belle pub. Prix=? Loin du centre?              |                |
+   | [2009-11-30 Mon 15:57] |  081-74.07.84 | Pub Intermarche (caissiere). Trop cher car copain en divorce.       |                |
+   | [2009-12-10 Thu 16:15] |  081-42.34.71 | Pub Hopital (Mont-Godinne?) Dame pour prix. Discute avec mari       |                |
+   | [2010-01-03 Sun 20:00] | 0472-58.88.46 | Pub Spar. 268 au-dessus budget, mais ...?  veroleboul@hotmail.com   |                |
+   | [2010-01-05 Tue 09:45] | 0477-36.87.66 | Pub Spar. Monsieur pour lui ou sa fille. Visite samedi 09:00.       |                |
+   | [2010-02-03 Wed 15:15] | 0498-69.04.31 | Pub Pharma Godinne. Pas ce qu'on recherche (après vu photos Web)... |                |
+   | [2010-03-08 Mon 10:30] | 0473-22.36.40 | Pub Delhaize Dinant. RDV samedi matin                               |                |
+
+   RC = 1.269 EUR.
+
+** Appel au père de Virginie Reghem
+   [2010-01-15 Fri 17:30]
+
+   Elle va téléphoner pour visiter.
+
+** DONE Appeler Dr Bollu N.
+   [2010-01-28 Thu 10:00]
+
+   Phone:	071725510
+   Cellular:	0479946655
+
+   Je suis casée. J'ai acheté à Mettet.
+
+** Contacter amis Laurent et Mélanie
+   [2009-07-25 Sat]
+
+   Tardio - Demarteau
+   071-33.08.75
+   0486-54.41.03
+
+** ImmoWeb
+
+- Une maison nouvellement construite (voire à achever) est reprise sous
+  "première occupation"... En fait, c'est le point de vue de qui : c'est
+  l'acheteur qui va bénéficier de la première occupation, ou c'est le vendeur
+  qui était le premier à l'occuper ?
+
+- Quelle est le sens de "libre immédiatement" ?
+
+- On serait en droit d'avoir de l'aide sur la législation : conformité
+  électrique (faite quand, valable combien de temps), conformité de la citerne
+  si plus de 3000 L (question à poser, avec règles à respecter...).
+
+- simple vitrage, double vitrage, double vitrage avec isolation sonore,
+  présence de volets, etc.
+
+- Voir les paramètres pris en compte par l'expertise de la maison selon ABEX.
+  Là, on touche une vraie valeur...
+
+- Il faut payer pour recevoir des emails sur des nouveaux biens... À VÉRIFIER.
+
+* Choix d'une agence : comparaison
+
+** RDV Finomat
+   [2009-09-26 Sat]
+
+   Kévin Martin
+   0477-22.69.15
+
+   Valeur de la maison entre 270.000 et 280.000 EUR. Donc, 298.000 EUR, c'est
+   très optimiste, mais pas excessivement surfait non plus.
+
+   Bel avantage de votre maison : elle est de *plain-pied*.
+
+   Commission de 3,63%. Contrat en exclusivité.
+
+** RDV Century 21 JPL (082-22.40.92)
+   [2009-10-03 Sat 10:00]
+
+   Alex Simon
+   0497-53.54.17
+
+   Valeur en main (pour le vendeur) entre 230 et 260.000 EUR. Avec la
+   commission, 260.000 EUR, cela devient 274.000 EUR affichés.
+
+** RDV Fiks (081-33.11.00)
+   [2009-10-10 Sat 10:45]
+
+   Visite impromptue de Julien Joostens.
+
+   Infos :
+   - ils font un dossier dans lequel figure un *plan de la maison* (ils disent
+     être les seuls à faire cela, et que les clients aiment bien)
+   - travail en exclusivité
+   - commission de 3% HTVA
+
+   Jeune stagiaire. Pas d'estimation du bien.
+
+
+   [2009-10-17 Sat 10:20-12:20]
+   RDV Daniel Walkiers
+   0495-38.37.04
+
+   Côtés positifs :
+   - très très bien entretenue
+   - exposition sud
+   - grands volumes
+   - bons matériaux
+
+   Cotés négatifs :
+   - architecture classique (pas recherchée)
+   - cuisine et SdB à revoir (démodés)
+   - endroit loin de tout
+
+   Estimation :
+
+   |                 |   m2 | EUR/m2 |    EUR |
+   |-----------------+------+--------+--------|
+   | Terrain avant   | 1250 |     55 |  68750 |
+   | Terrain de fond | 1164 |      5 |   5820 |
+   | Cave            |  133 |    300 |  39900 |
+   | RDC             |  133 |    900 | 119700 |
+   | ?               |      |        |  17156 |
+   | Abri de jardin  |      |        |   5000 |
+   | Jardin          |      |        |   6000 |
+   |-----------------+------+--------+--------|
+   | Total           |      |        | 262326 |
+   #+TBLFM: @2$4=@2$2*@2$3::@3$4=@3$2*@3$3::@4$4=@4$2*@4$3::@5$4=@5$2*@5$3::@9$4=vsum(@-I..@-II)
+
+   On pourrait imaginer 269.000 EUR, voire 275.000 pour commencer si vous
+   insistez, mais le prix est plutôt de 263.000 EUR. Évidemment, ce n'est
+   jamais à 5.000 EUR près.
+
+   Exemple de maison similaire à la nôtre (à 300 m, rue Alex D'Aoust) :
+   229.000 EUR, vendue en 1 mois. Clients très contents : allez leur demander.
+   Différences : pas de cave, mais SdB et cuisine à jour (maison de 1998,
+   cause divorce).
+
+   Un client intéressé doit revenir ou rappeler dans les 72 h. Sinon, cela ne
+   sert à rien.
+
+   La moyenne pour vendre un bien est de 82 jours.
+
+   On peut mettre, éventuellement, dans les conditions particulières que tel
+   client pourrait peut-être se décider à acheter dans les 15 jours, sous
+   réserve de quoi aucune commission ne serait due.
+
+   Chaque mois qui passe, c'est de l'argent qui dort qui n'est pas investi :
+
+   | 280000 | 0.03 | 8400. |
+   |        |   12 |  700. |
+   #+TBLFM: @1$3=@1$1*@1$2::@2$3=@1$3/@2$2
+
+   Autres frais compris (chauffage, etc.), cela fait un peu moins de 1.000 EUR
+   par mois de perte si rien ne se passe.
+
+   Gars très bien...
+
+** RDV Clerin (081-22.30.30 ?)
+   [2009-10-10 Sat 11:00]
+
+   Frank Beerens
+   0485-16.38.20
+
+   Si je sens que je peux vendre la maison, je peux vous proposer un contrat
+   de co-exclusivité :
+
+   - vous la vendez le premier, je ne vous dois rien;
+   - je la vend avant vous, vous me devez la commission.
+
+   Notre commission est de 3,63 % TVAC. C'est négociable, mais pas énormément.
+
+   Si on essaie de la vendre, on fait venir un cameraman pour faire une vidéo
+   de votre maison (pour toute maison au-dessus de 200.000 EUR) et on fait une
+   annonce parallèle, mais différente, et un /mailing/ à tous nos intéressés.
+
+
+   Pour moi, un meilleur prix serait 295.000 EUR. Cela peut faire une
+   différence. Mais, en tous cas, ce prix me semble tout à fait correct, vu :
+
+   - le côté privatif de la maison (retrait par rapport à la route)
+   - les hourdis
+   - le double vitrage à l'étage (prévu comme un vrai étage)
+   - toit OK
+   - pas de traînée d'humidité, etc.
+
+   Avantage chez nous : la *visite virtuelle* du bien (le film fait par un
+   cameraman). Cela est parfois un facteur déclenchant pour des gens qui
+   n'auraient pas voulu s'installer à cet endroit-là, mais qui tombent sous le
+   charme.
+
+   Les seuls points discutables de la maison :
+   - le mélange eau / électricité dans la cave qui peut faire peur aux femmes
+   - la cuisine équipée un peu vieillotte.
+   - une remodernisation à gauche ou à droite.
+
+   Contrat de *3 mois* (à votre avantage, car durée moyenne pour vendre un
+   maison = 4 mois). On voit de toute façon rapidement si cela marche ou pas.
+
+** RDV ERA Axes (081-21.32.00 ?)
+   [2009-10-10 Sat 15:00]
+
+   Julien Crikeler
+
+   Axes fait partie du groupe américain ERA. Partage de la BD sur toutes les
+   agences belges (plus d'une centaine, sais plus combien). 3 agences à Namur.
+
+   Commission de 3%. Oublié de demander quoi pour l'exclusivité. Réduction de
+   la commission de quelques pourcents étant membre Test Achats (sans doute,
+   quelque chose comme 2 à 5%).
+
+   Les documents pour la composition du dossier sont pris à sa charge.
+
+   Offre à l'acheteur d'une garantie de 16 mois sur les appareils électriques
+   (c'est 325 EUR, mais pris à la charge de l'agence).
+
+   Contrat de 3 mois, reconductible tacitement.
+
+   Prix trop élevé : devrait être 275.000 maximum. Il ne faut pas oublier,
+   pour les acheteurs, les frais de notaire (12,5%) et les frais annexes, qui
+   montent à un total de 17%.
+
+   Citerne aérienne : pas de problème d'étanchéité.
+
+   Selon lui, les ventes par (leur ?) agence donnent des prix de 8 % environ
+   plus élevés que des ventes de particulier à particulier.
+
+   Pour faire contrôler l'électricité, BTV est aussi cher que Vinçotte, mais
+   moins pointilleux.
+
+   Critique de Century 21 (autre groupe américain) : ils essaient de faire
+   venir les gens en agence pour leur montrer les catalogues. Difficile pour
+   la plupart des gens qui travaillent.
+
+   ERA Axes, eux, s'arrangent pour avoir les visites l'une à la suite de
+   l'autre, de manière à mettre la pression sur les candidats. Ils préfèrent
+   que le propriétaire soit là pour faire faire les visites.
+
+** Courrier de ERA Axes
+   [2009-10-14 Wed]
+
+   J'apprécie la valeur intrinsèque de votre maison à 265.000 EUR minimum et
+   275.000 EUR maximum.
+
+   Il est néanmoins possible d'annoncer votre bien à un montant supérieur mais
+   l'offre ne susciterait que peu d'intérêt auprès des acheteurs potentiels.
+
+** RDV avec Agence Gré à Gré (Namur)
+   [2009-10-31 Sat 11:00]
+
+   Poucet. 0477-82.12.21
+
+   Le *grenier* n'est pas une surface habitable, mais juste une surface
+   aménageable.
+
+   Notre particularité : pas d'exclusivité (même avec d'autres agences; mais,
+   dans ce cas-là, évidemment, on fait moins d'efforts).
+
+   Contrats de 4 mois (préavis d'un mois, mais n'a pas vraiment d'effet dans
+   le cas où on n'a pas l'exclusivité de la vente puisque vous pouvez la
+   vendre vous-même).
+
+   Ce n'est que du Win-win : soit on trouve qqun à votre prix, soit moins cher
+   (mais vous êtes libres de faire ce que vous voulez), soit vous trouvez...
+
+   Estimation entre 270.000 EUR et 275.000 EUR.
+
+   Truc : ne surtout pas mettre l'adresse du bien dans l'annonce. Comme ceci,
+   les gens peuvent passer devant et se faire une idée limitée à la vue de la
+   façade. Si on ne met pas l'adresse, ils doivent téléphoner et on peut tout
+   faire pour décrocher un RDV.
+
+   Une vingtaine de biens dans notre agence de Namur. Pas plus. On est une
+   petite structure (2 personnes).
+
+** Téléphone de Gré à Gré (Namur, Mr Poucet)
+   [2009-11-05 Thu 14:40]
+
+   On cherche des biens. On vient de vendre une maison à 300.000 EUR sur Bouge
+   en 2 jours.
+
+   Pour votre maison, on a 710 prospects dans notre base de données. Peut-être
+   certains ne sont plus d'actualité, mais...
+
+   Pour les visites, je préfère les faire seul. Cela créée une meilleure
+   relation de confiance.
+
+   En ce qui concerne la commission, si c'est un facteur discriminant, je peux
+   essayer de convaincre Corinne (la directrice) pour la diminuer. Au mieux,
+   ce serait 3 % TVAC.
+
+** RDV avec Immobilière Meusardennes
+   [2009-11-07 Sat 10:00]
+
+   Philippe Ruyssen
+   Expert (pathologies du bâtiment, tribunal)
+   0495-52.04.68
+   Rue Godefroid, 29 - Namur
+
+   Il a mesuré toutes les pièces... J'ai une très bonne impression du gars (56
+   ans).
+
+   La citerne est aérienne (pas enfouie), mais dire 2900 L si on veut éviter
+   les certifications (et enlever l'autocollant de Papa).
+
+   - *Cuisine super-équipée*, car lave-vaisselle.
+   - Cuisine hyper-équipée, si lave-linge (appartement, généralement).
+
+   Tuiles vernies : parfait, évite la mousse. L'eau coule mieux (moins
+   poreux).
+
+   C'est une *villa* (car 4 façades) *type bungalow* (car plain-pied).
+
+   Le *grenier* n'est pas une surface habitable, car pas aménagé (on n'y
+   habite pas : il faut des murs, chauffage, prises, etc.). Par contre, c'est
+   une *surface aménageable*. OK pour 189 m2 car on ne précise pas "surface
+   habitable".
+
+   Par contre, les *murs intérieurs* et les *murs extérieurs* comptent dans la
+   *surface habitable* (il faut les murs pour rendre la superficie habitable).
+   Donc, *156 m2* habitables.
+
+   Lui avait calculé XX m2 + 15% pour tenir compte des murs intérieurs,
+   extérieurs et des espaces non-comptés (comme le débarras). Il arrivait à
+   140 m2.
+
+   Rendement locatif : on désire 7 % en loyers bruts par an. Une location à
+   Bioul serait de 750 à 800 EUR par mois.
+
+   - Avant la crise, 3 mois pour vendre une maison.
+   - Maintenant, plutôt 6 mois.
+
+   Un vendeur seul va généralement partir d'un prix plus élevé pour arriver à
+   un prix plus bas après négociation.
+
+   Si vous connaissiez un amateur, vous avez plus intérêt à me le confier pour
+   réaliser la vente, pour vous garantir un prix plus juste.
+
+   De plus, vendre par une agence libère le vendeur de tout recours : c'est
+   l'agence qui est totalement responsable en cas de vices cachés et autres.
+
+   Valeur du bien (prix au plus juste, ni sous-estimé, ni sur-estimé) =
+   *265.350 EUR*.
+   Deux formules :
+   - marge de négociation, mais pas plus que 10 ou 15.000 EUR, soit annonce à
+     275.000 ou 280.000 EUR;
+   - prix non négociable : pour Bioul, c'est mieux, pour s'ouvrir à une plus
+     grande quantité d'amateurs.
+
+   Les 2.414 m2 sont à 25 EUR/m2 car terrain "encombré".
+
+   Agence de 5 personnes (3 experts, 1 secrétaire et 1 stagiaire).
+
+   Notre commission = 3% HTVA. Pas négociable, car cela nous permet de bien
+   vivre (quand on vend), mais on a des frais... Et on ne se rattrape pas sur
+   du volume. On préfère moins de biens, que l'on fait mieux.
+
+   C'est le même taux qu'un escompte pour paiement comptant.
+
+   Pas de co-exclusivité : c'est plus serein de nous permettre, à nous, de
+   donner l'adresse à des amateurs et ne pas avoir de problèmes avec le
+   vendeur sur qui a trouvé l'acheteur.
+
+** Téléphone de Clerin
+   [2009-11-12 Thu 10:15]
+
+   Frank Berens
+   (0485-16.38.20 ou) 0474-91.02.62
+
+   Je viens aux nouvelles.
+
+   Commission : je peux la réduire à 2,50% HTVA (à la place de 3% HTVA).
+
+** Téléphone de Century 21
+   [2009-11-12 Thu 11:30]
+
+   Commission élevée ? Mauvais argument pour moi... On a aussi 160 agences...
+   Cela compte.
+
+** Agence Color
+   [2009-11-14 Sat 10:10-12:20]
+
+   Jean-Charles Bodart
+   0476-56.50.46
+   http://www.color-immo.be
+
+   Il a vu, au départ, la pub dans le Passe-Partout (pas sur le Web...).
+
+   Deux valeurs :
+
+   - *valeur d'expertise*
+
+     Principalement basée sur le coût des matériaux, sauf pour le terrain où
+     l'aspect situation intervient dans le prix.
+
+     |---------------------------------+--------+----------------------------------|
+     | Terrain (25 m façade x 50 m)    |  61250 | 70% de 70 EUR/m2 car bâti        |
+     | Surface habitable hors murs ext |        |                                  |
+     | - Sous-sol                      |  59400 | 450 EUR. 500 à 550 EUR en neuf   |
+     | - RDC                           | 105600 | 800 EUR. 1000 à 1100 EUR en neuf |
+     | - Étage                         |  25200 | 450 EUR. 500 à 550 EUR en neuf   |
+     |---------------------------------+--------+----------------------------------|
+     | Valeur d'expertise              | 251450 |                                  |
+     #+TBLFM: @1$2=25*50*70*0.7;%.0f::@3$2=132*450;%.0f::@4$2=132*800;%.0f::@5$2=56*450;%.0f::@6$2=vsum(@-I..@-II);%.0f
+
+     Étage considéré à la même valeur que la cave (normalement, devrait être
+     moins) car *isolé* à la fois au *jitage* (très bien) et à la *toiture*.
+
+     Valeur augmente, en moyenne sur les 50 dernières années, de 3% par an.
+
+   - *valeur du marché* (= *valeur vénale*)
+
+     Souvent un peu supérieure à la valeur d'expertise (sauf dans le cas d'un
+     château, par exemple, que peu de gens recherchent).
+
+     Points positifs :
+     - *plain-pied* (on ne peut plus en construire actuellement)
+     - très bon état (tour de la maison, tuiles vernies, murs de 40 cm plutôt
+       que 30 cm, etc.)
+     - calme
+     - jardin et aménagements extérieurs
+     - espace et volume
+     - cave
+     - maison sans histoires (problèmes)
+
+     Points négatifs :
+     - situation (par rapport à l'autoroute, etc.) -- intégré partiellement
+       dans la valeur du terrain; c'est d'ailleurs la situation qui empêche
+       d'être trop gourmand
+     - manque de "peps", architecture rationnelle, classique
+
+     Prix : 270 à 275.000 EUR
+
+     *Meilleur prix à annoncer : 279.000 EUR* et voir ce que cela donne. Si
+     plus (289.000 EUR, par exemple, être conscient du prix gourmand).
+
+   Actuellement, la marge entre valeur d'expertise et valeur du marché se
+   réduit. Il n'y a plus d'achats impulsifs.
+
+   L'avantage également d'un prix affiché proche de la réalité est que, si les
+   gens ont peur de le rater, ils mettent le prix.
+
+   Valeur il y a 2 ans, quand tout allait bien ?  280.000 EUR.
+
+   Autre méthode d'expertise : ABEX (Assoc Belge des Experts ?) :
+
+   |-------------+--------+--------------------------------------------------------|
+   | Composant 1 | 144890 | Indice Bungalow = 1,462                                |
+   | Composant 2 |  17197 | 7 points (*balcon*, *tuiles en terre cuite vernies*, etc.) |
+   | Composant 3 |  61250 | (on pourrait compter le reste du *terrain* à 5 EUR/m2)   |
+   | Composant 4 |  38000 | ABEX limite *cave* à 250 EUR/m2 max                      |
+   | Autres      |   2500 | *Terrasse* (on pourrait compter *rangement annexe*)        |
+   |-------------+--------+--------------------------------------------------------|
+   | Total       | 263837 |                                                        |
+   #+TBLFM: @1$2=152*652*1.462;%.0f::@3$2=25*50*70*0.7;%.0f::@4$2=152*250;%.0f::@5$2=50*50;%.0f::@6$2=vsum(@-I..@-II);%.0f
+
+   Note -- Ici, on a pris l'indice "bungalow", donc étage pas comptabilisé. On
+   pourrait prendre l'indice "villa" (car *plain-pied avec étage*), mais
+   l'étage serait valorisé différemment, ce qui compenserait la différence
+   d'index.
+
+   On a pris la surface habitable de 152 m2. Le calcul exact prend la surface
+   hors murs extérieurs multipliée par 1,15.
+
+   Pour info, valeur locative : 800 EUR/mois (max 900 EUR/mois).
+
+   Deux piliers pour la vente : *prix* et *délai*. Un maison qui ne se vend
+   pas en 6 mois, c'est qu'il y a un problème (soit le prix, soit problème
+   faisant peur comme traces d'humidité, etc.).
+
+   Nos services en plus:
+
+   - on fait un dossier complet au départ (alors que pas exigé à ce stade),
+     mais cela permet de répondre à toutes les questions (par exemple :
+     s'agit-il d'un lôtissement ?)
+
+   - expertise pour donner des conseils d'expert (c'est pas un stagiaire qui
+     fait visiter en attendant dehors) aux potentiels acheteurs pour placer
+     une véranda, par exemple, ou diviser en 2 et louer une partie, etc.
+
+   - *home staging* (on conseille la société Effet Papillon). Belles photos
+     avant/après. On remarque que la maison est plus "dépersonnalisée" :
+     retrait des cadres et photos personnelles
+
+   - déménagement
+
+   - entretien du jardin (dont le propriétaire est responsable jusqu'à la
+     vente) : on conseille des gens.
+
+   On fait signer des *offres d'achat*.
+   - "montant hors frais" précisé
+   - durée de validité au choix du candidat (2 à 15 jours, généralement, mais
+     on essaie que la période couvre la signature potentielle du compromis)
+   - deux possibilités :
+     + ferme et définitive
+     + sous réserve d'acceptation...
+
+   Pour le compromis, on essaie qu'il soit ferme et définitif. Je préfère
+   attendre une semaine pour avoir l'acceptation de la banque. Acompte demandé
+   de 10% généralement (min 5%, en tous cas), lors de la signature.
+
+   Solvabilité : nous, on peut facilement demander aux gens combien ils
+   gagnent. On travaille avec les banques et avec les notaires.
+
+   On n'a pas de bureau classique avec une vitrine (cela ne marche pas). On
+   est 2 co-fondateurs, dans un Office Park, sans secrétaire. On gère 30 à 40
+   biens tous les deux.
+
+   Contrat de 6 mois, mais je suis d'accord de le réduire à 4 mois. Contrat de
+   *convention*; ce n'est pas un mandat (= procuration pour signer).
+
+   On travaille en exclusivité. Pourquoi ?
+
+   - On ne veut pas investir autant d'argent et d'énergie sans être certain de
+     la vendre et d'en retirer les bénéfices. Sous-entendu, les autres font
+     moins d'effort quand ils travaillent en co-exclusivité.
+
+   - Compétition entre prix et délai : en co-exclusivité, on a va essayer de
+     signer la vente tout de suite, de convaincre le propriétaire que l'offre
+     est bonne et qu'il sera impossible de vendre plus cher. C'est contraire à
+     l'intérêt du propriétaire, dans l'idée d'essayer qu'ils en obtiennent le
+     meilleur prix (éventuellement, en attendant un mois de plus).
+
+   Je préfère réduire le contrat à 4 mois, plutôt que d'accepter une
+   co-exclusivité.
+
+   Commission de 3% HTVA (soit 3,63 TVAC). Pas négociable telle quelle, mais :
+
+   - j'accepte d'être payé au moment de l'*acte* (plutôt qu'au compromis)
+
+   - je suis d'accord de dire que ma commission sera revue par rapport à mes
+     résultats : on essaie de vendre à 279.000 EUR; j'y arrive, j'ai les 3%.
+     Je n'y arrive pas, mais j'ai une offre à X EUR que vous acceptez, hé bien
+     vous me payez une *commission en rapport avec les deux prix*. Offre
+     "win-win".
+
+   Concernant la citerne de mazout, il faut la déclarer à la commune et
+   que le propriétaire la mette en ordre (car plus de 3.000 L) : cuvelée +
+   cimentée à l'intérieur du cuvelage (hauteur du muret à calculer en fonction
+   de la capacité de la citerne, doit être suffisamment haut en cas de
+   débordement).
+
+   Points d'attention :
+   - étanche (hydrofuge, goudron)
+   - système anti-débordement et anti-refoulement (c'est un bouchon spécial)
+   - test d'étanchéité (si enfouie, via ultrasons; en aérien, on le sent
+     déjà...)
+
+   Il semblerait toutefois que, lorsque l'épaisseur de la tôle est supérieure
+   à une certaine valeur, l'on pourrait essayer d'éviter de la cuveler. Peut
+   dépendre des communes.
+
+   Devra être *en ordre pour l'acte*.
+
+** Meusardennes
+   [2009-12-03 Thu]
+
+   Home staging / déco = très bien.
+
+   Peinture : non !  Ne le faîtes pas...
+   - Inutile, les goûts et les couleurs. Les acheteurs vont peut-être encore
+     repeindre à leur goût
+   - Une vente, c'est une *relation de confiance*. Repeindre *risque* de
+     donner un /climat de suspicion/.
+
+   Je suis toujours prêt. J'ai de l'expérience, un raisonnement sain.
+
+** Agence Legrand
+
+   27 agences en BE
+   3.63 TVAC, 6 mois
+   http://www.trevi.be
+
+   Pierre Closon
+   exclusivité de territoire et collaboration étroite
+   http://www.pierrecloson.be
+
+* Mission de vente confiée à Clérin
+
+** Clerin
+   [2009-11-28 Sat]
+
+   Pour le plan (que je mets sur ma pub v4), lui ne le ferait pas : il trouve
+   que c'est mieux que les gens viennent visiter pour se rendre compte de la
+   disposition, plutôt que de se faire une idée préconçue.
+
+** Téléphone de Clérin
+   [2009-12-15 Tue 12:00]
+
+   On a lancé la pub :
+   - sites Web
+   - mailing : j'ai envoyé 300 mails.
+
+   On a eu *un seul* retour...
+
+   La cliente a revisité hier avec son père. Elle a fait une offre jusque
+   lundi, en utilisant les arguments suivants pour essayer de faire baisser le
+   prix (justifiant que les travaux doivent rentrer dans son budget) :
+
+   - Divers travaux de rénovation (tapis, peinture, charpente
+     non-traditionnelle).
+   - Cuisine à rénover et à équiper.
+   - SdB à rénover.
+   - Chambres à l'étage pas finies (elle en a besoin).
+   - Elle compte retirer tout le crépis (le trouvant horrible).
+   - Elle se méfie de la chaudière (déjà âgée de 22 ans).
+   - Mur fissuré dans l'allée du garage.
+
+   Offre à 250 kEUR.
+
+   Il va la rappeler, en disant que le propriétaire l'a refusée
+   catégoriquement, pour essayer de lui faire augmenter son prix, parlant
+   d'autres clients potentiels (visites prévues, ...).
+
+   D'autre part, il m'informe que la secrétaire de Clérin, habitante de Bioul,
+   a trouvé (lorsqu'elle a du mettre la pub sur Internet) notre prix affiché
+   trop élevé, impossible à obtenir pour Bioul. Bon, c'est aussi 288 kEUR --
+   puisque je lui ai fait commencer avec 10 kEUR de plus que le prix sur
+   lequel l'on s'était accordé... Donc, on est implicitement d'accord que
+   c'est déjà 10 kEUR trop élevé (même si je ne l'avoue pas au vendeur de
+   Clérin).
+
+   Il va essayer de négocier d'une manière à ce qu'elle ne se braque pas de
+   suite, pour ne pas la perdre, puisque, actuellement, c'est la seule
+   intéressée, ce qui est peu en fonction de leurs pubs.
+
+   À suivre...
+
+** Téléphone de Clérin
+   [2009-12-15 Tue 15:15]
+
+   Le vendeur a rappelé la dame pour négocier.
+
+   Au début, elle était très carrée, en disant qu'il y aurait encore d'autres
+   maisons pour elle, et d'autres acheteurs pour nous. Elle maintenait donc
+   fermement 250 kEUR.
+
+   Elle aurait dit : à 288 kEUR, elle ne se vendra jamais; que le propriétaire
+   aille voir telle et telle maison à vendre... qui sont mieux pour un prix
+   inférieur.
+
+   Il a quand même su lui faire changer son prix, et obtenir une nouvelle
+   offre de sa part à 260 kEUR.
+
+   Il nous dit de voir ce qu'on en pense, et qu'il est peut-être pensable de
+   lui faire rajouter 5 kEUR de plus. Il pense que plus serait difficile voire
+   impossible.
+
+   À nous de voir et de définir le palier minimum minimorum...
+
+   Le vendeur dit qu'il respectera notre choix, et qu'il continuera à se
+   battre si on n'accepte pas (265-270 kEUR ?). D'ailleurs, il aura un
+   argument supplémentaire vis-à-vis d'autres puisque, comme il dit, il pourra
+   montrer l'offre qu'il a déjà reçue (et qui aurait été refusée).
+
+   Faut-il évidemment qu'il en ait d'autres... car il dit qu'il y a eu pas mal
+   de clics sur la maison, mais aucun retour à part elle -- ce que je peux
+   confirmer aussi par les stats que j'avais vues sur ImmoWeb, lors de notre
+   annonce. Donc, il ne faut pas négliger cet aspect.
+
+   Mon analyse :
+
+   Il est clair que rien ne dit qu'on n'aurait pas plus (voire beaucoup plus)
+   de réactions si l'on mettait le prix à 265 kEUR, par exemple.
+
+   Mais il est clair aussi que quasiment tout le monde veut une réduction sur
+   le prix affiché. Donc, si l'on voulait absolument 265 kEUR, il faudrait
+   afficher un peu plus haut (270 à 275 kEUR) et autoriser une baisse. Mais
+   trouverait-on des personnes intéressées ?
+
+   Toutefois, il faut que l'on se rende bien compte que 260 kEUR est déjà 10 à
+   15 kEUR supérieur à l'estimation la plus honnête que l'on ait eue, à savoir
+   celle faite par le comptable. Donc, il ne faut pas cracher du tout sur
+   cette offre (pour info, elle est sûre, car aucune condition suspensive liée
+   à l'obtention d'un prêt -- donc, oui = vendu immédiatement avec certitude)...
+
+   Maintenant, si l'on se donne un palier minimum minimorum réaliste, je peux
+   très bien recontacter les quelques personnes qui avaient téléphoné (et les
+   amis de Mélanie et Laurent) et voir leur réaction face à ce palier. À prix
+   égal à celui que pourrait nous avoir l'agence, cela nous ferait la
+   commission en moins, s'il y avait intérêt de l'un ou de l'autre. C'est
+   notre avantage par rapport au contrat de co-exclusivité. Je ne peux le
+   faire qu'une seule fois, évidemment, ce genre de contact.
+
+   Quel est ton avis pondéré sur tout ceci ?
+
+** Clerin
+   [2009-12-17 Thu 14:45]
+
+   Offre maintenue a 260 kEUR. Pas du cinéma.
+
+** Clerin
+   [2009-12-24 Thu 11:00]
+
+   Appel. Message sur répondeur.
+
+** Appel à Clerin
+   [2010-01-06 Wed 18:20]
+
+   On ne crie pas victoires, mais j'ai des gens très intéressés sur la maison.
+   Visite lundi. Je suis en train d'avoir une offre à 260 kEUR.
+
+   J'ai joué sur son offre pour vendre la maison plus facilement aux nouvelles
+   personnes. Je n'ai pas apprécié son manque de parole : non, 255 kEUR.
+
+** Appel à Clérin
+   [2010-01-15 Fri 18:05]
+
+   Cela m'intéressait de trouver un autre client que Mme Petit (de Mettet) :
+   elle est venue avec son père et un pseudo-entrepreneur qui a dit qu'il y
+   avait énormément de travaux.
+
+   Tout devient un problème :
+
+   - fissures dans l'allée
+   - isolation (gitage)
+   - boites de dérivation (10 minutes pour changer...)
+
+   Ils jouent avec nos pieds. Ils sont revenus pour faire baisser le prix.
+
+   Elle téléphone lundi pour dire quoi, mais je parie qu'ils vont faire une
+   offre à 240 ou 245 kEUR...
+
+   Pour l'instant, cela ne bouge pas trop. 2 ou 3 demandes (pour l'adresse ou
+   autre), mais pas de concret.
+
+** Appel de Clérin
+   [2010-01-19 Tue 12:45]
+
+   Je viens d'avoir Mme Petit au téléphone qui ne se porte plus du tout
+   acquéreur du bien, compte tenu du nombre de travaux insurmontables dans la
+   maison...
+
+   Donc, nous remettons le bien en vente. On passe à un autre client. On
+   retourne vers une autre offre.
+
+** Appel de Clérin
+   [2010-01-27 Wed 11:15]
+
+   On vise un autre acquéreur, puisque Mme Petit n'est plus intéressée.
+
+   Honnêtement, pour l'instant, cela ne bouge pas.
+   Les facteurs : prix, région ?
+
+** Appel de Clérin
+   [2010-02-12 Fri 16:00]
+
+   On est allé un jour pour essayer de faire la vidéo, mais la maison était
+   trop sombre. On ne l'a pas faite, sur conseil même du caméraman
+   (indépendant, donc il avait pourtant intérêt à la faire), pour éviter de la
+   présenter sous un mauvais aspect.
+
+   On peut essayer d'aller la refaire.
+
+   Pour l'instant, pas du tout du tout d'intérêt. On n'a vraiment personne qui
+   s'y intéresse. Pas un coup de téléphone. Rien du tout.
+
+   C'est que la maison reste trop chère...
+
+   J'ai envoyé une 20-aine de mails à des gens que cela pourrait intéresser :
+   une 20-aine de mails, partis le 24/12.
+
+   Je vais essayer de renvoyer des mails, suite à la baisse de prix.
+
+   Il faudrait une forte baisse (249.000 EUR ?, mais ce n'est pas à moi à
+   fixer le prix) pour essayer de relancer...
+
+** Pub in het Vlaams
+
+*** Orig
+
+    ANHEE Landelijk gel.villa 208m2, inkom, wc, grote liv, eetkamer, ing.kkn,
+    berg, 3 rme slpks, bureau, badk en wc op GV. VD: ruime zolder,
+    mogelijkheid 2 extra slpks. KELDER 152m2: gar 3 wagens, waspl, werkpl. CV
+    op mazout. Mooie tuin zuid 24a, terras, tuinhuis. Station op 7 km. Namen
+    20 km. Dinant 12 km. 259000 E. Inl 0477-95 73 36 na 17u.
+
+*** Autres versions
+
+    ANHEE Landelijk gel.villa, inkom, wc, grote liv, eetk, ing.kkn, berg, 3
+    rme slpks, bur, badk en wc op GV. VD: ruime zolder geschikt vr 2 extra
+    slpks. KELDER: gar 3 wagens, waspl, werkpl. Tuin zuid 24a, terras,
+    tuinhuis. Station op 7 km. Namen 20 km. Dinant 12 km. 259000 E. Inl
+    0477-95 73 36 na 17u.
+
+*** De Standaard
+    [2010-02-15 Mon]--[2010-02-20 Sat]
+
+    Pour 5 jours :
+
+       1234567890123456789012345
+    1  ANHEE Landelijk gel.villa
+    2  ,inkom,wc,grote liv,eetk,
+    3  ing.kkn,berg,3 rme slpks,
+    4  bur,badk en wc op GV.VD:
+    5  rme geisol zolder.KDR:gar
+    6  3 wagens,waspl,werkpl.Tui
+    7  n zuid 24a,terras,tuinhui
+    8  s.Station 7km. Namen 20km
+    9  .259000 EUR.In 0477957336
+
+** Appel de Clérin
+   [2010-02-16 Tue 12:35]
+
+   Je relance tout de suite 160 mails dans la demi-heure qui suit. Avec
+   l'autre prix, on était à environ 60. Réactualisation des sites ImmoWeb et
+   autres dans la demi-heure qui suit.
+
+   C'est déjà bien d'être passé dans les 259 kEUR. Le chiffre 5 donne l'idée
+   des 250 milles.
+
+   Je recontacte aussi le caméraman.
+
+** Appel de Clérin
+   [2010-02-18 Thu 16:25]
+
+   J'ai une visite samedi en début d'après-midi. Cela reprend un peu. Je
+   voulais vous tenir au courant.
+
+   Je lui ai signalé que la vitre va être remplacée dans les tout prochains
+   jours.
+
+** Appel de Clérin
+   [2010-02-23 Tue 13:25]
+
+   Pour moi, ils étaient intéressés. C'est la dame qui trouvait cela un peu
+   trop grand.
+
+   Ils me diront quoi demain.
+
+** Téléphone de Clerin
+   [2010-02-24 Wed 15:15]
+
+   Apparemment, ils sont intéressés, mais cela dépend de l'estimation de leur
+   maison.
+
+   J'ai RDV demain à 13:00 pour estimer leur maison. En fonction, on leur
+   laissera encore un délai de réflexion, à savoir s'ils vendent leur maison
+   ou pas acheter la vôtre avec un crédit pont.
+
+   Dans le meilleur de cas, je vous retéléphone lundi pour être sûr. Si j'ai
+   des nouvelles avant, je vous retéléphone avant le week-end.
+
+** Téléphone à Clerin
+   [2010-03-04 Thu 13:05]
+
+   Les autres personnes, cela n'ira pas. Ils comparent leur maison à la vôtre
+   alors qu'ils ont une maison 3 façades (à Bioul) avec petit jardin et pas
+   mal de travaux à faire. Je leur ai estimé à 210 kEUR, ils étaient vexés.
+
+   Ils voient quand même avec leur banquier s'ils ont des fonds propres.
+
+   J'ai une autre visite dans le courant de la semaine. J'attends confirmation
+   d'un RDV.
+
+   Caméraman : je vais le re-contacter. Je lui ai donné l'adresse il y a 10
+   jours. Je ne sais pas s'il est allé le faire ou non... Apparemment pas.
+
+** Téléphone à Clerin
+   [2010-03-19 Fri 12:15]
+
+   Les gens qui ont visité samedi apprécient la maison. Ils voulaient faire
+   une offre, puis ont abandonné quand ils se sont rendus compte que le RC
+   était de 1200 EUR. Ils pensaient (je ne sais pas d'où) qu'il était
+   inférieur à 750 EUR.
+
+   Cela fait une différence sur les frais : ils passent de 6% à 12%, soit
+   35.000 EUR à l'achat...
+
+   Je les ai fait changer d'avis, et j'ai indiqué que j'avais une autre visite
+   planifiée. Ils retournent à la banque et vont essayer de faire une offre
+   inférieure, mais "la plus raisonnable possible".
+
+   Ils me recontactent lundi. Sinon, je le fais mardi matin.
+
+   Entre-temps, j'ai vraiment eu une demande sur la maison. J'ai donné
+   l'adresse. Si intérêt, visite à planifier bientôt.
+
+** Téléphone de Clerin
+   [2010-03-22 Mon 11:55]
+
+   J'ai reçu l'offre des gens par email, avec un papier de la banque (accord
+   de prêt).
+
+   Leur offre est de 225 kEUR, fonction de leur budget, et de leurs frais :
+   - 250 kEUR pour l'achat
+   - 15 kEUR pour les travaux (carrelages partout, cuisine)
+
+   Ils n'ont *pas de clause suspensive*. Donc, vente directe.
+
+   Question visites, je ne vous ai pas prévenu à chaque fois, mais j'en ai
+   fait 21. Il faut en retirer quelques-unes qui ont été annulées, mais cela
+   doit faire 16-17 (voir fichier attaché). C'est énorme. C'est bien le prix
+   qui restait un facteur bloquant. Je me suis fort trompé lors de
+   l'estimation. Bioul n'est pas (du tout) côté comme Namur, ni même
+   Profondeville ou Yvoir.
+
+   FNI :: J'ai argué que je n'avais pas encore ton accord officiel, donc que
+   je ne pouvais pas dire quoi sur cette offre, mais que je m'arrangerai pour
+   avoir ton accord pour 235 kEUR (avec possibilité de 10 kEUR en nwar). Donc,
+   s'ils acceptent, signature demain même. Histoire qu'il essaie de les faire
+   monter (avec, d'ailleurs, tous les risques que cela comporte)...
+
+   Il le rappelle, et essaie d'obtenir cela.
+
+** Téléphone de Clerin
+   [2010-03-22 Mon 16:00]
+
+   Ils acceptent 230 kEUR (dont 5 kEUR en nwar), mais ils ne peuvent et
+   veulent pas monter plus haut. C'est déjà 10 kEUR de plus que ce qu'ils
+   avaient en tête au départ, comme maximum.
+
+   En fait, s'ils devaient mettre plus (235 kEUR), ils rajouteraient un tout
+   peu plus et achèteraient une autre maison qui les intéresse aussi, mais est
+   un peu plus chère.
+
+   Leur offre est valide jusque mercredi matin (donc, *réponse pour mardi*),
+   car ils ont le projet d'en visite (ou revisiter) une autre mercredi à
+   10:30, et veulent la liberté de faire une offre pour celle-là.
+
+   Berens m'a dit "honnêtement" que, vu le nombre de visites qu'il a déjà
+   faites, il lui est impossible, pour lui, d'obtenir une offre supérieure à
+   cela. Il dit : "je parle pour moi; peut-être pas pour un autre agent". Avec
+   lui, et son expérience acquise sur la maison, c'est une offre qu'il ne
+   pourra pas dépasser.
+
+   C'est un peu la conclusion que j'ai aussi, d'ailleurs.
+
+   Donc, le choix se résume clairement à :
+
+   1. accepter *aujourd'hui* (demain pour moi) l'offre de 230 kEUR;
+
+      Avantages :
+      + vente ferme et définitive;
+      + on met fin à tous les coûts récurrents.
+
+      Inconvénients :
+      + moins que ce qu'on espérait (10 à 15 kEUR moins que l'estimation
+        désintéressée du notaire).
+
+   2. donner le renon à Clérin cette semaine (avant le 28 mars), et faire un
+      nouveau contrat avec une autre agence à partir du 28 avril.
+
+      Avantages :
+      + tentative d'essayer de la vendre un peu plus chère (10 à 15 kEUR ?)
+
+      Inconvénients :
+      + espérance seulement de la vendre un peu plus chère;
+      + la vente n'aura sans doute (raisonnablement) pas lieu avant 3 à 6 mois
+        supplémentaires, la moyenne de vente pour une agence étant, dans les
+        conditions du marché, de 3 à 4 mois (selon ce qu'ils m'avaient tous
+        dit);
+      + le fait que la maison soit en vente depuis un certain temps peut faire
+        reculer des amateurs, car suspicion d'un problème caché;
+      + les conditions de la meilleure agence que je verrai sont 3% HTVA et
+        pas de co-exclusivité : ils veulent travailler, tout faire pour la
+        vendre, mais donc pas permettre qu'elle leur file sous les yeux.
+        C'est, de toute façon, les conditions minimales de toutes, sauf une.
+
+   Quel est ton avis ?  Tu peux me téléphoner, peut-être.
+
+   Fabrice
+
+   PS- On a un fixe maintenant : 016-29.20.34.
+
+* Home-staging
+
+  Notestraat, 30 \\
+  Ternat
+
+* Compromis de vente
+
+** Téléphone à Van Bever
+   [2010-03-31 Wed 09:05]
+
+   Le notaire Perleau va examiner le compromis (mais elle a 3 actes le matin).
+   Le notaire Van Bever est en congés jusqu'au 7.
+
+   Nouvelles pour le début de l'après-midi, directement communiquées à
+   l'agence (et à moi, éventuellement, par téléphone).
+
+** Téléphone de Van Bever
+   [2010-03-31 Wed 09:10]
+
+   Maître Perleau a déjà lu le compromis. Pas de remarques à formuler. Vous
+   pouvez signer sans craintes.
+
+** Téléphone de Clerin
+   [2010-03-31 Wed 11:15]
+
+   Remarques de l'autre notaire :
+
+   - Par rapport au précompte immobilier (à partir du 1-ier janvier), il y a
+     une quote-part que les clients devront payer. En général, le notaire fait
+     le calcul. Noter cela explicitement.
+
+   - Pas de servitude connue ?  Gouttière, canalisation ?
+
+   - Lôtissement : remettre une copie de l'acte d'achat en 1978.
+
+* Actes de vente
+
+** DONE Demander l'argent du compromis                                    :mail:
+   SCHEDULED: <2010-05-11 Tue>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-05-17 Mon 13:56]
+   :END:
+
+   L'argent est bloqué à l'agence. Un courrier sera envoyé au notaire, pour le
+   jour de l'acte, avec virement et explication du décompte.
+
+** DONE Appeler Service Juridique de Test-Achat                           :call:
+   [2010-05-18 Tue 09:45]
+
+   C'est toujours un risque, en effet.
+
+   Cette vente n'est pas opposable au tiers, donc officiellement ils ne sont
+   pas encore propriétaires. Dans les rapports entre nous, ils le sont
+   toutefois déjà.
+
+   Pourquoi pas ? Qu'ils veillent à prendre une assurance.
+
+   Raisonnablement, si assurés (incendie et vol), risque très très faible.
+   Moi, je le ferai.
+
+   Sinon, dire : "Pas question".
+
+** DONE Checklist avant les actes [2/2]                                :errands:
+   DEADLINE: <2010-05-29 Sat -3d>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-06-02 Wed 22:13]
+   :END:
+
+   - [X] Vider la maison
+   - [X] Vider le COFFRE
+
+** DONE Checklist pour le jour des actes [10/10]                          :mail:
+   DEADLINE: <2010-06-01 Tue -7d>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-06-02 Wed 22:15]
+   :END:
+
+   - [X] Certificat du contrôle électrique
+   - [X] Relevé des compteurs d'eau et d'électricité
+   - [X] Résilier le contrat eau AIEM
+   - [X] Résilier le contrat Belgacom
+   - [X] Résilier le contrat électricité Electrabel
+
+         Reçu coup de fil d'Electrabel.
+         Tout est en ordre.
+
+   - [X] Résilier le contrat d'assurance incendie JMD-Rochez
+   - [X] Résilier le contrat ORES (relevé compteurs électricité)
+   - [X] Résilier le contrat de relevé des déchets (Administration communale)
+   - [X] Résilier le contrat Tele2
+   - [X] Résilier le contrat Voo
+
+** DONE Vente de la maison : actes chez le notaire (15:30)             :errands:
+   :LOGBOOK:
+   - State "DONE"       from ""           [2010-06-08 Tue 14:49]
+   :END:
+   [2010-06-01 Tue 14:30-15:30]
+
+** DONE Contacter Van Bever à propos des taxes                            :mail:
+   :PROPERTIES:
+   :Created: [2010-07-12 Mon 22:10]
+   :Effort:   0:30
+   :END:
+   :LOGBOOK:
+   CLOCK: [2010-08-04 Wed 22:05]--[2010-08-04 Wed 22:19] =>  0:14
+   - State "WAIT"       from "TODO"       [2010-08-04 Wed 22:18] \\
+     Mail envoyé.
+   - State "WAIT"        ->  "DONE"       [2012-07-23 Mon 16:52]
+   :END:
+
+Bonjour Maître,
+
+J'ai deux questions à vous soumettre pour être sûr que tout soit en ordre,
+suite respectivement à la déclaration de succession et à la vente de la maison
+de mon père, à Bioul.
+
+Concernant la succession, en faisant une dernière vérification dans les
+documents déménagés de Bioul (pour me débarasser de tout ce qui est devenu
+inutile), je suis tombé sur les post-its suivants laissés par mon père :
+
+- "Pas taxable si pas déduite annuellement"
+
+- "Ne rien déduire en ce qui concerne les contributions ! En 2012, il faudra
+  demander 1 attestation aux contributions, comme quoi rien n'a jamais été
+  déduit."
+
+- "D'ailleurs, j'ai gardé tous les documents prouvant que rien n'a été
+  décompté !"
+
+Ces notes concernent l'épargne-pension "Pension Invest Plan" N. 006-3960629-90
+contractée chez Fortis. Elle a été, bien évidemment, considérée dans la
+déclaration de succession, mais je voudrais savoir si elle a été taxée ou pas,
+lors de la clôture.
+
+Enfin, concernant la vente de la maison à Bioul, je viens de recevoir il y a
+quelques semaines une demande de paiement du précompte immobilier. Si j'ai
+bien compris, notre quote-part avait dû être payée lors de la vente.
+Pouvez-vous me confirmer que c'est bien le cas, et me dire ce qu'il convient
+de faire de la demande qui m'a été adressée ?
+
+Très sincèrement,
+  Fabrice Niessen
+
+[[gnus:nnimap%2Bmc:INBOX.house#87k4o6b0b0.fsf@mundaneum.com][Email from Fabrice Niessen: Affaire NIESSEN -- À l'attenti]]
+
+** DONE Règlement du précompte immobilier                                 :call:
+   [2010-09-01 Wed]
+
+Téléphone à Van Bever : dans la convocation, on mentionnait effectivement le
+règlement du précompte immobilier par Maître Watillon.
+
+** DONE Règlement du précompte immobilier                                 :call:
+   [2010-09-02 Thu]
+
+Téléphone à Van Bever : preuve de paiement de la somme, payé le 2 juin 2010.
+L'avertissement a été payé par Me Watillon (081-22.91.23).
+
+* Troc International
+
+** RDV Troc International (Bioul)
+   [2010-04-30 Fri 16:00]
+
+   Troc International (Boninne) 081-20.71.11 http://www.troc.com
+
+   Marchandises à transporter soi-même (camionnette Eurocar 100 EUR/journée),
+   ou faire transporter (ils connaissent des livreurs professionnels).
+
+   Commission entre 38 % et 45 % du prix de vente.
+   Sauf bibelots, achetés par le Troc, au tiers du prix.
+
+   Le "Troc.com de Boninne" m'a fait l'évaluation suivante :
+
+   | Item                              | Prix 1 | Prix 2 |
+   |-----------------------------------+--------+--------|
+   | Bahut 2 corps st louis xv chene   |    349 |    275 |
+   | Soupiere faience                  |     25 |     15 |
+   | Bureau chene                      |    199 |    149 |
+   | Lampe pied chippendaele           |     15 |     10 |
+   | Tabouret chene massif             |     12 |      8 |
+   | Quiquet laiton                    |     12 |      8 |
+   | Salon ossature chene coussin skai |    199 |    149 |
+   | Table salon ronde                 |     50 |     35 |
+   | Table gigogne lot 3               |     30 |     20 |
+   | Video                             |     15 |     10 |
+   | Meuble tv 2p st louis xv          |    125 |     85 |
+   | Lustre etain                      |     35 |     20 |
+   | Lustre etain                      |     15 |     10 |
+   | Applique etain                    |      8 |      5 |
+   | Fauteuil bureau                   |     20 |     15 |
+   | Mappe monde                       |     15 |     10 |
+   | Assiette boch                     |     12 |      8 |
+   | Huile s toile                     |     45 |     30 |
+   | Pied fumeur                       |     15 |     10 |
+   | Vase val st lambert               |     50 |     35 |
+   | Cadre plaque verre grave          |     20 |     15 |
+   | Vase pate de verre                |     30 |     20 |
+   | Coupe opaline bleu                |     18 |     12 |
+   | Meuble cuisine 2p 2t              |     45 |     30 |
+   | Ensemble tble cuisine             |     45 |     30 |
+   | Barometre                         |     12 |      8 |
+   | Garde robe st louis xv            |    449 |    349 |
+   | Meuble st louis xv                |     60 |     45 |
+   | Horloge parquet                   |    199 |    149 |
+   | Carafe opaline mauve              |     25 |     15 |
+   | Vase verre souffle mauve          |     25 |     15 |
+   | Lustre faience laiton             |     45 |     30 |
+   | Miroir ovale cadre chene          |     15 |     10 |
+   | Etagere epices faience delft      |     45 |     30 |
+   | Garde robe 2p strat brun          |     45 |     30 |
+   | Meuble bureau strat brun          |     60 |     45 |
+   | Lampe bureau metal                |     15 |     10 |
+   | Poignard gaine cuir               |     30 |     20 |
+   | Etagere strat brun                |     20 |     15 |
+   | Suspension annee 70 orange        |     15 |     10 |
+   | Suspension annee 70 blanche       |     12 |      8 |
+   | Porte parapluie                   |      8 |      5 |
+   | Cheval bascule                    |     15 |     10 |
+   | Ventilateur                       |     15 |     10 |
+   | Fauteuil pliant vert              |     15 |     10 |
+   | porte bouteille fer forge         |     15 |     10 |
+   | paire  chaise jardin              |     12 |      8 |
+   | lot moule en bois                 |     12 |      8 |
+   | canne a peche                     |     25 |     15 |
+   | taille haie electrique            |     20 |     15 |
+   | etagere a suspendre strat brun    |      8 |      5 |
+   | scie circulaire                   |     49 |     35 |
+   | foreuse a percution aeg           |     45 |     30 |
+   | repose buche                      |     45 |     30 |
+   | echelle alu                       |     45 |     30 |
+   | escabelle alu                     |     25 |     15 |
+   | desserte roulettes chene          |     25 |     15 |
+   | banc exterieur plastique          |     25 |     15 |
+   | tracteur tondeuse                 |    399 |    299 |
+   | brouette                          |     49 |     35 |
+   |-----------------------------------+--------+--------|
+   | Total                             |   3328 |   2403 |
+   |-----------------------------------+--------+--------|
+   | Pour nous                         |   1830 |   1322 |
+    #+TBLFM: @62$2=vsum(@-I..@-II)::@62$3=vsum(@-I..@-II)::@63$2=@-1*0.55;%.0f::@63$3=@-1*0.55;%.0f
+
+   Généralement, 50% des articles vendus le premier mois, 80% sur les deux
+   premiers mois.
+
+   Meilleurs chiffres de mai à août.
+   Avril : le plus mauvais mois !
+
+   - Faïence italienne : 2,50 EUR
+   - Petit électro : non, car pas de garantie.
+
+   Voici le no de Gérard de l'association "une main tendue" avec lequel on
+   travaille : 0497/30.82.59.
+
+** DONE [#A] Trouver autres vides-greniers sur Internet
+   SCHEDULED: <2010-05-03 Mon>
+   :PROPERTIES:
+   :Effort:   0:15
+   :END:
+   :LOGBOOK:
+   CLOCK: [2010-05-03 Mon 20:56]--[2010-05-03 Mon 21:19] =>  0:23
+   - State "DONE"       from "TODO"       [2010-05-03 Mon 21:19]
+   :END:
+
+   Par ordre de réponse :
+
+   - Vus sur http://www.toutypasse.be
+     1. 0477-70.99.49 (Liège) JM-Deprez@hotmail.com
+
+        [2010-05-07 Fri 12:25]
+        Pas reçu les photos. Je vous rappelle cette après-midi.
+
+     2. 0477-82.25.08 (Namur) Roland
+
+        [2010-05-12 Wed 13:00-13:05]
+        Intéressé par :
+        - grand buffet
+        - vestiaire
+        - bureau de la SàM
+        - horloge-pendule
+        - table ronde et fauteuils
+
+        Troc, c'est pas si, si terrible. Méfiez-vous. Vous auriez peut-être
+        plus si vous faites une brocante, bien qu'un beau verre ne vaudra
+        jamais plus que 1,50 EUR. J'y crois pas trop, Troc.
+
+        Ce que je veux bien faire, si vous voulez, tout ce qui est bibelot,
+        vases, verres, etc. Si on s'arrange, je fais tout un lot, je met tout
+        ensemble, et au moment où je vais vendre le restant des meubles, je
+        vous donne l'argent. À mon avis, vous aurez plus que chez Troc, et
+        vous l'aurez plus vite (10 jours).
+
+        En plus des 150 EUR, vous auriez cela en plus. Bibelots vendables,
+        mais pas à des gros prix. Je peux vous les vendre.
+
+   - entreprise-mds@hotmail.com
+
+   - Vus sur http://www.toutypasse.be
+     3. Alain Charles http://www.aazvidetout.be/
+
+** DONE [#A] Faire venir Expert immobilier a Bioul
+   SCHEDULED: <2010-04-29 Thu>
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2010-04-28 Wed 09:40] \\
+     Nouveau coup de fil, et message laissé sur répondeur (demandant de me
+     rappeler).
+   - State "DONE"       from "WAITING"    [2010-05-03 Mon 21:39]
+   :END:
+
+   Expert mobilier : Claude Dejaie (081-46.07.48)
+
+   N'a jamais rappelé, malgré deux messages laissés sur le répondeur.
+   Visiblement pas intéressé, ou pas le profil !
+
+** DONE [#A] Regarder Cash Converters sur Namur
+   SCHEDULED: <2010-05-03 Mon>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-05-03 Mon 21:22]
+   :END:
+
+   Ils font "tout" sauf les meubles, les gros appareils électroménagers et les
+   vêtements :
+   - GSM,
+   - caméscope,
+   - appareil photo numérique,
+   - jeux video,
+   - DVD,
+   - instrument de musique,
+   - chaîne hifi,
+   - montre...
+
+** DONE [#A] Envoyer photos meubles à JM-Deprez@hotmail.com et entreprise-mds@hotmail
+   SCHEDULED: <2010-05-04 Tue>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-05-04 Tue 22:54]
+   :END:
+
+** DONE [#A] Prendre RDV avec Brocanteur François Weber
+   SCHEDULED: <2010-05-13 Thu>
+   :PROPERTIES:
+   :Effort:   0:10
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-05-17 Mon 09:34]
+   :END:
+
+   Brocante : François Weber (085-61.25.11).
+   Le numéro de téléphone n'existe plus...
+
+** Troc.com de Boninne
+   [2010-05-26 Wed 12:20]
+
+   Bibelots estimés à 60 EUR tout compris, soit 20 EUR pour vous (achat
+   immédiat).
+
+   113 EUR de vendu en 10 jours, c'est positif. Tout va bien partir...
+
+   Passer samedi pour les 20 EUR.
+
+** DONE [#A] Vide-grenier Roland 0477-82.25.08 (Namur)
+   :LOGBOOK:
+   - State "DONE"       from ""           [2010-06-08 Tue 14:48]
+   :END:
+   <2010-05-29 Sat 08:00-16:00>
+
+** DONE [#A] Faire venir les Plovier
+   :LOGBOOK:
+   - State "DONE"       from ""           [2010-06-08 Tue 14:48]
+   :END:
+   <2010-05-29 Sat>
+
+** DONE [#A] Trouver prix pour outils Plovier [0/3]
+   SCHEDULED: <2010-05-21 Fri>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2010-05-21 Fri 13:36]
+   :END:
+
+   - [ ] débroussailleuse
+   - [ ] tronçonneuse
+   - [ ] taille-haies
+
+   | Marque la moins chère sur PixMania             | Age  | Prix neuf | Div | Prix occasion |
+   |------------------------------------------------+------+-----------+-----+---------------|
+   | *Débroussailleuse* MC CULLOCH thermique Mac 250L | 30 ? |       192 |  10 |          19.2 |
+   | *Tronçonneuse* BOSCH AKE 35                      | 20 ? |        89 |   5 |          17.8 |
+   | *Taille-haie* RYOBI One+ OHT1850                 | 15   |        65 |   5 |          13.0 |
+   |------------------------------------------------+------+-----------+-----+---------------|
+   | Total                                          |      |       346 |     |          50.0 |
+   #+TBLFM: @2$5=@2$3/@2$4::@3$5=@3$3/@3$4::@4$5=@4$3/@4$4;%.1f::@5$3=vsum(@-I..@-II)::@5$5=vsum(@-I..@-II);%.1f
+
+** DONE [#A] Faire venir Guy Jans                                         :call:
+   SCHEDULED: <2010-05-29 Sat>
+   :LOGBOOK:
+   - State "DONE"       from ""           [2010-05-31 Mon 14:49]
+   :END:
+
+   Reçu 400 EUR pour le tracteur.
+
+** DONE Reprendre RDV Troc.com 081-22.20.02 Profondeville                 :call:
+
+   Estimation gratuite.
+
+   Commission entre 30 % (prix >= 1.000 EUR) et 40 % (si prix <= 250 EUR) du
+   prix de vente.
+
+   Plus le temps de le faire. Et les Plovier pensent que c'est plus petit que
+   Bonnine, et surtout plus /select/. Pas l'idéal, donc.
+
+** CANX Vérifier le versement de 20 EUR                                :finance:
+   :LOGBOOK:
+   - State "TODO"        ->  "CANX"       [2011-09-30 Fri 14:55]
+   :END:
+
+** Troc International
+   [2010-06-26 Sat 12:30-12:35]
+
+   Pour les pièces de monnaie, je pense qu'elles valent entre 200 et 300 EUR :
+   - quelques pieces valent 18 ou 19 EUR,
+   - d'autres quelques euros,
+   - les autres rien.
+
+   Enchères à partir de 250 EUR, pendant 2 semaines.
+
+   Sinon, prix du 1^er mois = 250 EUR; prix du 2^ième mois = 200 EUR.
+
+** DONE Vérifier le versement de 95.10 EUR                             :finance:
+   SCHEDULED: <2010-12-13 Mon>
+   :LOGBOOK:
+   - State "TODO"       from ""           [2010-12-06 lun. 18:36]
+   - State "DONE"       from "TODO"       [2011-06-27 Mon 12:16]
+   :END:
+
+02-12-2010   Virement en votre faveur   95,10 EUR   250-0318634-74   TROC.COM
+
+** CANX Vérifier les versements de Troc                                :finance:
+   :LOGBOOK:
+   - State "TODO"        ->  "CANX"       [2012-08-10 Fri 21:22]
+   :END:
+
+* Autres
+
+** DONE [#A] Envoyer quelques effets de Papa à Denise
+   :LOGBOOK:
+   - State "TODO"       from ""           [2011-02-03 Thu 11:19]
+   - State "TODO"        ->  "DONE"       [2012-01-08 Sun 13:28]
+   :END:
+
+** DONE Payer la boite aux lettres à Marc                              :finance:
+   :LOGBOOK:
+   - State "TODO"        ->  "DONE"       [2012-01-08 Sun 13:28]
+   :END:
+
+** DONE Chercher pierre tombale chez Balthazar                         :errands:
+   SCHEDULED: <2010-10-08 Fri>
+   :LOGBOOK:
+   - State "TODO"       from "WAITING"    [2010-04-23 Fri 11:28]
+   - State "WAITING"    from "TODO"       [2010-04-26 Mon 14:44] \\
+     Commande passée par téléphone. 2 à 3 semaines pour la livraison.
+   - State "TODO"       from "WAITING"    [2010-06-25 Fri 10:18]
+   - State "DONE"       from "TODO"       [2010-10-12 Tue 21:16]
+   :END:
+
+   11,5 H (max 24 H) x 18 L
+   18 L x 15,5 H
+
+   A. Balthazart
+   Tailleur de pierre
+   Tel 082-61.45.23
+   Fax 082-61.43.20
+
+** CANX Jardinier
+   :LOGBOOK:
+   - State "CANX"       from ""           [2011-02-03 Thu 11:20]
+   :END:
+
+   Christophe Rondelet \\
+   Rue Pairoir, 28 \\
+   5537 Bioul \\
+   0495 32 19 71
+
+** DONE Fixer la plaque au cimetière                                   :errands:
+   :PROPERTIES:
+   :Created: [2011-02-07 Mon 13:11]
+   :END:
+   :LOGBOOK:
+   - State "TODO"       from "NEW"        [2011-02-07 Mon 13:11]
+   - State "DONE"       from "TODO"       [2011-03-14 Mon 09:01]
+   :END:
+
